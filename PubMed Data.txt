@@ -1,0 +1,2391 @@
+PMID- 34741454
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220714
+LR  - 20230321
+IS  - 1945-7189 (Electronic)
+IS  - 0163-769X (Print)
+IS  - 0163-769X (Linking)
+VI  - 43
+IP  - 4
+DP  - 2022 Jul 13
+TI  - Comprehensive Review of Uterine Fibroids: Developmental Origin, Pathogenesis, and 
+      Treatment.
+PG  - 678-719
+LID - 10.1210/endrev/bnab039 [doi]
+AB  - Uterine fibroids are benign monoclonal neoplasms of the myometrium, representing 
+      the most common tumors in women worldwide. To date, no long-term or noninvasive 
+      treatment option exists for hormone-dependent uterine fibroids, due to the 
+      limited knowledge about the molecular mechanisms underlying the initiation and 
+      development of uterine fibroids. This paper comprehensively summarizes the recent 
+      research advances on uterine fibroids, focusing on risk factors, development 
+      origin, pathogenetic mechanisms, and treatment options. Additionally, we describe 
+      the current treatment interventions for uterine fibroids. Finally, future 
+      perspectives on uterine fibroids studies are summarized. Deeper mechanistic 
+      insights into tumor etiology and the complexity of uterine fibroids can 
+      contribute to the progress of newer targeted therapies.
+CI  - © The Author(s) 2021. Published by Oxford University Press on behalf of the 
+      Endocrine Society.
+FAU - Yang, Qiwei
+AU  - Yang Q
+AUID- ORCID: 0000-0001-7131-8946
+AD  - Department of Obstetrics and Gynecology, University of Chicago, Chicago, IL 
+      60637, USA.
+FAU - Ciebiera, Michal
+AU  - Ciebiera M
+AD  - Second Department of Obstetrics and Gynecology, Center of Postgraduate Medical 
+      Education, ul. Cegłowska 80, 01-809, Warsaw, Poland.
+FAU - Bariani, Maria Victoria
+AU  - Bariani MV
+AD  - Department of Obstetrics and Gynecology, University of Chicago, Chicago, IL 
+      60637, USA.
+FAU - Ali, Mohamed
+AU  - Ali M
+AD  - Clinical Pharmacy Department, Faculty of Pharmacy, Ain Shams University, Cairo 
+      11566, Egypt.
+FAU - Elkafas, Hoda
+AU  - Elkafas H
+AD  - Department of Anesthesiology, University of Illinois at Chicago, Chicago, IL 
+      60612, USA.
+AD  - Department of Pharmacology and Toxicology, Egyptian Drug Authority, formerly 
+      National Organization for Drug Control and Research, Cairo 35521, Egypt.
+FAU - Boyer, Thomas G
+AU  - Boyer TG
+AD  - Department of Molecular Medicine, Institute of Biotechnology, University of Texas 
+      Health Science Center at San Antonio, San Antonio, TX, 78229-3900, USA.
+FAU - Al-Hendy, Ayman
+AU  - Al-Hendy A
+AUID- ORCID: 0000-0002-8778-4447
+AD  - Department of Obstetrics and Gynecology, University of Chicago, Chicago, IL 
+      60637, USA.
+LA  - eng
+GR  - R01 ES028615/ES/NIEHS NIH HHS/United States
+GR  - R01 HD094380/HD/NICHD NIH HHS/United States
+GR  - U54 MD007602/MD/NIMHD NIH HHS/United States
+GR  - R01 HD087417/HD/NICHD NIH HHS/United States
+GR  - R01 HD106285/HD/NICHD NIH HHS/United States
+GR  - R01 HD094378/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+PL  - United States
+TA  - Endocr Rev
+JT  - Endocrine reviews
+JID - 8006258
+SB  - IM
+EIN - Endocr Rev. 2022 Mar 02;:. PMID: 35234847
+EIN - Endocr Rev. 2022 Mar 02;:. PMID: 35234873
+MH  - Female
+MH  - Humans
+MH  - *Leiomyoma/etiology/therapy
+MH  - Myometrium/pathology
+MH  - Risk Factors
+MH  - *Uterine Neoplasms/etiology/pathology/therapy
+PMC - PMC9277653
+OTO - NOTNLM
+OT  - developmental origin
+OT  - epigenetics pathways
+OT  - future directions
+OT  - genetic instability
+OT  - novel treatment
+OT  - reprogramming
+OT  - uterine fibroids
+EDAT- 2021/11/07 06:00
+MHDA- 2022/07/15 06:00
+CRDT- 2021/11/06 08:33
+PHST- 2021/08/15 00:00 [received]
+PHST- 2021/11/07 06:00 [pubmed]
+PHST- 2022/07/15 06:00 [medline]
+PHST- 2021/11/06 08:33 [entrez]
+AID - 6422392 [pii]
+AID - bnab039 [pii]
+AID - 10.1210/endrev/bnab039 [doi]
+PST - ppublish
+SO  - Endocr Rev. 2022 Jul 13;43(4):678-719. doi: 10.1210/endrev/bnab039.
+
+PMID- 33504114
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210420
+LR  - 20210420
+IS  - 1660-4601 (Electronic)
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Linking)
+VI  - 18
+IP  - 3
+DP  - 2021 Jan 25
+TI  - Uterine Fibroids and Diet.
+LID - 10.3390/ijerph18031066 [doi]
+LID - 1066
+AB  - Uterine myomas or fibroids are the most common benign female tumors of the 
+      reproductive organs, associated with significant morbidity and quality of life 
+      impairment. Several epidemiological risk factors for their occurrence have been 
+      identified so far, including nutrition and dietary habits. In this investigation, 
+      authors reviewed, as a narrative review, the data about diet and uterine myoma 
+      development in order to homogenize the current data. A PubMed search was 
+      conducted for the years 1990-2020, using a combination of keywords of interest 
+      for the selected topic. The authors searched the databases, selecting the 
+      randomized clinical studies, the observational studies, and the basic 
+      (experimental), clinical, and epidemiological researches. Once they collected the 
+      articles, they analyzed them according to the number of citations of each 
+      article, starting from the most cited to the least cited articles. Subsequently, 
+      authors collected the data of each article and inserted them in the various 
+      research paragraphs, summarizing the data collected. In this way, they crossed 
+      the available data regarding the association between nutrition habits and dietary 
+      components and myoma onset and growth. Many nutrients and dietary habits are 
+      associated with myoma development risk. These factors include low intakes of 
+      fruit, vegetables, and vitamin D, as well as pollutants in food. Despite the 
+      available data on the influence of some foods on the development of fibroids, 
+      further research is mandatory to understand all the nutrition risk factors which 
+      contribute to myoma growth and how exactly these risk factors influence myoma 
+      pathogenesis.
+FAU - Tinelli, Andrea
+AU  - Tinelli A
+AUID- ORCID: 0000-0001-8426-8490
+AD  - Department of Obstetrics and Gynecology, "Veris delli Ponti" Hospital, Scorrano, 
+      73020 Lecce, Italy.
+AD  - Division of Experimental Endoscopic Surgery, Imaging, Technology and Minimally 
+      Invasive Therapy, Vito Fazzi Hospital, 73100 Lecce, Italy.
+AD  - Laboratory of Human Physiology, Phystech BioMed School, Faculty of Biological & 
+      Medical Physics, Moscow Institute of Physics and Technology (State University), 
+      141701 Moscow, Russia.
+FAU - Vinciguerra, Marina
+AU  - Vinciguerra M
+AD  - Department of Biomedical and Human Oncological Science (DIMO), 1st Unit of 
+      Obstetrics and Gynecology, School of Medicine, University of Bari Aldo Moro, 
+      70124 Bari, Italy.
+FAU - Malvasi, Antonio
+AU  - Malvasi A
+AD  - Laboratory of Human Physiology, Phystech BioMed School, Faculty of Biological & 
+      Medical Physics, Moscow Institute of Physics and Technology (State University), 
+      141701 Moscow, Russia.
+AD  - Department of Obstetrics & Gynecology, Santa Maria Hospital GVM Care & Research, 
+      70124 Bari, Italy.
+FAU - Andjić, Mladen
+AU  - Andjić M
+AD  - Clinic for Gynecology and Obstetrics, Clinical Centre of Serbia, Višegradska 26, 
+      11000 Belgrade, Serbia.
+FAU - Babović, Ivana
+AU  - Babović I
+AD  - Clinic for Gynecology and Obstetrics, Clinical Centre of Serbia, Višegradska 26, 
+      11000 Belgrade, Serbia.
+AD  - School of Medicine, University of Belgrade, 11000 Belgrade, Serbia.
+FAU - Sparić, Radmila
+AU  - Sparić R
+AD  - Clinic for Gynecology and Obstetrics, Clinical Centre of Serbia, Višegradska 26, 
+      11000 Belgrade, Serbia.
+AD  - School of Medicine, University of Belgrade, 11000 Belgrade, Serbia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210125
+PL  - Switzerland
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - Diet
+MH  - Female
+MH  - Fruit
+MH  - Humans
+MH  - *Leiomyoma/epidemiology/etiology
+MH  - Quality of Life
+MH  - *Uterine Neoplasms/epidemiology/etiology
+MH  - Vegetables
+PMC - PMC7908561
+OTO - NOTNLM
+OT  - diet
+OT  - dietary habits
+OT  - fruit
+OT  - myoma
+OT  - nutrition
+OT  - uterine fibroids
+OT  - vegetable
+OT  - vitamin D
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/01/29 06:00
+MHDA- 2021/04/21 06:00
+CRDT- 2021/01/28 01:02
+PHST- 2020/12/24 00:00 [received]
+PHST- 2021/01/07 00:00 [revised]
+PHST- 2021/01/13 00:00 [accepted]
+PHST- 2021/01/28 01:02 [entrez]
+PHST- 2021/01/29 06:00 [pubmed]
+PHST- 2021/04/21 06:00 [medline]
+AID - ijerph18031066 [pii]
+AID - ijerph-18-01066 [pii]
+AID - 10.3390/ijerph18031066 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2021 Jan 25;18(3):1066. doi: 
+      10.3390/ijerph18031066.
+
+PMID- 34063835
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210721
+LR  - 20210920
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 13
+IP  - 6
+DP  - 2021 May 21
+TI  - Diet and Nutrition in Gynecological Disorders: A Focus on Clinical Studies.
+LID - 10.3390/nu13061747 [doi]
+LID - 1747
+AB  - A healthy lifestyle and a balanced diet play a paramount role in promoting and 
+      maintaining homeostatic functions and preventing an array of chronic and 
+      debilitating diseases. Based upon observational and epidemiological 
+      investigations, it is clear that nutritional factors and dietary habits play a 
+      significant role in gynecological disease development, including uterine 
+      leiomyoma, endometriosis, polycystic ovary syndrome, and gynecological 
+      malignancies. Diets rich in fruits and vegetables, Mediterranean diets, green 
+      tea, vitamin D, and plant-derived natural compounds may have a long-term positive 
+      impact on gynecological diseases, while fats, red meat, alcohol, and coffee may 
+      contribute to their development. Data regarding the association between dietary 
+      habits and gynecological disorders are, at times, conflicting, with potential 
+      confounding factors, including food pollutants, reduced physical activity, ethnic 
+      background, and environmental factors limiting overall conclusions. This review 
+      provides a synopsis of the current clinical data and biological basis of the 
+      association between available dietary and nutritional data, along with their 
+      impact on the biology and pathophysiology of different gynecological disorders, 
+      as well as an outlook on future directions that will guide further 
+      investigational research.
+FAU - Afrin, Sadia
+AU  - Afrin S
+AUID- ORCID: 0000-0001-5063-9900
+AD  - Department of Gynecology and Obstetrics, Johns Hopkins University School of 
+      Medicine, Baltimore, MD 21205, USA.
+FAU - AlAshqar, Abdelrahman
+AU  - AlAshqar A
+AUID- ORCID: 0000-0002-1283-7460
+AD  - Department of Gynecology and Obstetrics, Johns Hopkins University School of 
+      Medicine, Baltimore, MD 21205, USA.
+AD  - Department of Obstetrics and Gynecology, Kuwait University, Kuwait City 13110, 
+      Kuwait.
+FAU - El Sabeh, Malak
+AU  - El Sabeh M
+AUID- ORCID: 0000-0002-7556-2900
+AD  - Department of Gynecology and Obstetrics, Johns Hopkins University School of 
+      Medicine, Baltimore, MD 21205, USA.
+FAU - Miyashita-Ishiwata, Mariko
+AU  - Miyashita-Ishiwata M
+AD  - Department of Gynecology and Obstetrics, Johns Hopkins University School of 
+      Medicine, Baltimore, MD 21205, USA.
+FAU - Reschke, Lauren
+AU  - Reschke L
+AD  - Department of Gynecology and Obstetrics, Johns Hopkins University School of 
+      Medicine, Baltimore, MD 21205, USA.
+FAU - Brennan, Joshua T
+AU  - Brennan JT
+AD  - Department of Gynecology and Obstetrics, Johns Hopkins University School of 
+      Medicine, Baltimore, MD 21205, USA.
+FAU - Fader, Amanda
+AU  - Fader A
+AD  - Department of Gynecology and Obstetrics, Johns Hopkins University School of 
+      Medicine, Baltimore, MD 21205, USA.
+FAU - Borahay, Mostafa A
+AU  - Borahay MA
+AUID- ORCID: 0000-0002-0554-132X
+AD  - Department of Gynecology and Obstetrics, Johns Hopkins University School of 
+      Medicine, Baltimore, MD 21205, USA.
+LA  - eng
+GR  - R01 HD094380/HD/NICHD NIH HHS/United States
+GR  - 5R01HD094380/Eunice Kennedy Shriver National Institute of Child Health and Human 
+      Development/
+PT  - Journal Article
+PT  - Review
+DEP - 20210521
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+SB  - IM
+MH  - Diet/*adverse effects
+MH  - Feeding Behavior/*physiology
+MH  - Female
+MH  - Genital Diseases, Female/*etiology/*physiopathology
+MH  - Humans
+MH  - Nutritional Status/*physiology
+PMC - PMC8224039
+OTO - NOTNLM
+OT  - diet
+OT  - dietary habits
+OT  - endometriosis
+OT  - gynecological malignancies
+OT  - nutrition
+OT  - polycystic ovary syndrome
+OT  - uterine leiomyoma
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/06/03 06:00
+MHDA- 2021/07/22 06:00
+CRDT- 2021/06/02 01:08
+PHST- 2021/04/12 00:00 [received]
+PHST- 2021/05/17 00:00 [revised]
+PHST- 2021/05/19 00:00 [accepted]
+PHST- 2021/06/02 01:08 [entrez]
+PHST- 2021/06/03 06:00 [pubmed]
+PHST- 2021/07/22 06:00 [medline]
+AID - nu13061747 [pii]
+AID - nutrients-13-01747 [pii]
+AID - 10.3390/nu13061747 [doi]
+PST - epublish
+SO  - Nutrients. 2021 May 21;13(6):1747. doi: 10.3390/nu13061747.
+
+PMID- 28278535
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171107
+LR  - 20181113
+IS  - 1526-4564 (Electronic)
+IS  - 1526-8004 (Print)
+IS  - 1526-4564 (Linking)
+VI  - 35
+IP  - 2
+DP  - 2017 Mar
+TI  - Recent Advances in Uterine Fibroid Etiology.
+PG  - 181-189
+LID - 10.1055/s-0037-1599090 [doi]
+AB  - Uterine fibroids, also known as uterine leiomyoma (UL), are monoclonal tumors of 
+      the smooth muscle tissue layer (myometrium) of the uterus. Although ULs are 
+      considered benign, uterine fibroids are the source of major quality-of-life 
+      issues for approximately 25% of all women, who suffer from clinically significant 
+      symptoms of UL. Despite the prevalence of UL, there is no treatment option for UL 
+      which is long term, cost-effective, and leaves fertility intact. The lack of 
+      understanding about the etiology of UL contributes to the scarcity of medical 
+      therapies available. Studies have identified an important role for sex steroid 
+      hormones in the pathogenesis of UL, and have driven the use of hormonal treatment 
+      for fibroids, with mixed results. Dysregulation of cell signaling pathways, miRNA 
+      expression, and cytogenetic abnormalities have also been implicated in UL 
+      etiology. Recent discoveries on the etiology of UL and the development of 
+      relevant genetically modified rodent models of UL have started to revitalize UL 
+      research. This review outlines the major characteristics of fibroids; major 
+      contributors to UL etiology, including steroid hormones; and available 
+      preclinical animal models for UL.
+CI  - Thieme Medical Publishers 333 Seventh Avenue, New York, NY 10001, USA.
+FAU - McWilliams, Michelle M
+AU  - McWilliams MM
+AD  - Department of Molecular and Integrative Physiology, Center for Reproductive 
+      Sciences, IRHRM, University of Kansas Medical Center, Kansas.
+FAU - Chennathukuzhi, Vargheese M
+AU  - Chennathukuzhi VM
+AD  - Department of Molecular and Integrative Physiology, Center for Reproductive 
+      Sciences, IRHRM, University of Kansas Medical Center, Kansas.
+LA  - eng
+GR  - R01 HD076450/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20170309
+PL  - United States
+TA  - Semin Reprod Med
+JT  - Seminars in reproductive medicine
+JID - 100909394
+RN  - 0 (Biomarkers, Tumor)
+SB  - IM
+MH  - Animals
+MH  - Biomarkers, Tumor/genetics/metabolism
+MH  - Disease Models, Animal
+MH  - Female
+MH  - Genetic Predisposition to Disease
+MH  - Humans
+MH  - Leiomyoma/*etiology/genetics/metabolism/pathology
+MH  - Phenotype
+MH  - Risk Factors
+MH  - Signal Transduction
+MH  - Uterine Neoplasms/*etiology/genetics/metabolism/pathology
+PMC - PMC5490981
+MID - NIHMS860400
+EDAT- 2017/03/10 06:00
+MHDA- 2017/11/08 06:00
+CRDT- 2017/03/10 06:00
+PHST- 2017/03/10 06:00 [entrez]
+PHST- 2017/03/10 06:00 [pubmed]
+PHST- 2017/11/08 06:00 [medline]
+AID - 10.1055/s-0037-1599090 [doi]
+PST - ppublish
+SO  - Semin Reprod Med. 2017 Mar;35(2):181-189. doi: 10.1055/s-0037-1599090. Epub 2017 
+      Mar 9.
+
+PMID- 30011902
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181029
+LR  - 20230928
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 19
+IP  - 7
+DP  - 2018 Jul 14
+TI  - Vitamin D and Uterine Fibroids-Review of the Literature and Novel Concepts.
+LID - 10.3390/ijms19072051 [doi]
+LID - 2051
+AB  - This article provides a detailed review of current knowledge on the role of 
+      vitamin D and its receptor in the biology and management of uterine fibroids 
+      (UFs). Authors present ideas for future steps in this area. A literature search 
+      was conducted in PubMed using the following key words: "uterine fibroid" and 
+      "vitamin D". The results of the available studies, published in English from 
+      January 2002 up to April 2018, have been discussed. Vitamin D is a group of 
+      steroid compounds with a powerful impact on many parts of the human body. This 
+      vitamin is believed to regulate cell proliferation and differentiation, inhibit 
+      angiogenesis, and stimulate apoptosis. Nowadays, hypovitaminosis D is believed to 
+      be a major risk factor in the development of UFs. In many studies vitamin D 
+      appears to be a powerful factor against UFs, resulting in inhibition of tumor 
+      cell division and a significant reduction in its size, however, the exact role of 
+      this compound and its receptor in the pathophysiology of UFs is not fully 
+      understood. According to available studies, vitamin D and its analogs seem to be 
+      promising, effective, and low-cost compounds in the management of UFs and their 
+      clinical symptoms, and the anti-tumor activities of vitamin D play an important 
+      role in UF biology. The synergy between vitamin D and selected anti-UF drugs is a 
+      very interesting issue which requires further research. Further studies about the 
+      biological effect of vitamin D on UF biology are essential. Vitamin D 
+      preparations (alone or as a co-drugs) could become new tools in the fight with 
+      UFs, with the additional beneficial pleiotropic effect.
+FAU - Ciebiera, Michał
+AU  - Ciebiera M
+AUID- ORCID: 0000-0001-5780-5983
+AD  - Department of Obstetrics and Gynecology, Centre of Postgraduate Medical 
+      Education, 00-416 Warsaw, Poland. michal.ciebiera@gmail.com.
+FAU - Włodarczyk, Marta
+AU  - Włodarczyk M
+AUID- ORCID: 0000-0003-1545-2547
+AD  - Department of Biochemistry and Pharmacogenomics, Faculty of Pharmacy with 
+      Division of Laboratory Medicine, Medical University of Warsaw, 02-097 Warsaw, 
+      Poland. mdwlodarczyk@gmail.com.
+AD  - Center for Preclinical Research, Medical University of Warsaw, 02-097 Warsaw, 
+      Poland. mdwlodarczyk@gmail.com.
+FAU - Ciebiera, Magdalena
+AU  - Ciebiera M
+AD  - Students' Scientific Association at the Department of Obstetrics and Gynecology, 
+      Medical University of Warsaw, 02-015 Warsaw, Poland. mciebiera93@gmail.com.
+FAU - Zaręba, Kornelia
+AU  - Zaręba K
+AD  - Department of Obstetrics and Gynecology, Centre of Postgraduate Medical 
+      Education, 00-416 Warsaw, Poland. kornelia3@poczta.onet.pl.
+FAU - Łukaszuk, Krzysztof
+AU  - Łukaszuk K
+AD  - Department of Obstetrics and Gynecological Nursing, Faculty of Health Sciences, 
+      Medical University of Gdansk, 80-210 Gdansk, Poland. luka@gumed.edu.pl.
+AD  - INVICTA Fertility and Reproductive Center, 80-172 Gdansk, Poland. 
+      luka@gumed.edu.pl.
+FAU - Jakiel, Grzegorz
+AU  - Jakiel G
+AD  - Department of Obstetrics and Gynecology, Centre of Postgraduate Medical 
+      Education, 00-416 Warsaw, Poland. grzegorz.jakiel1@o2.pl.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180714
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Vitamins)
+RN  - 1406-16-2 (Vitamin D)
+SB  - IM
+MH  - Apoptosis/drug effects
+MH  - Cell Differentiation/drug effects
+MH  - Cell Proliferation/drug effects
+MH  - Female
+MH  - Humans
+MH  - Leiomyoma/*drug therapy/pathology
+MH  - Uterine Neoplasms/*drug therapy/pathology
+MH  - Vitamin D/administration & dosage/pharmacology/*therapeutic use
+MH  - Vitamin D Deficiency/*drug therapy
+MH  - Vitamins/administration & dosage/pharmacology/therapeutic use
+PMC - PMC6073230
+OTO - NOTNLM
+OT  - leiomyoma
+OT  - uterine fibroid
+OT  - vitamin D
+OT  - vitamin D analogs
+OT  - vitamin D receptor
+COIS- The authors declare no conflict of interest.
+EDAT- 2018/07/18 06:00
+MHDA- 2018/10/30 06:00
+CRDT- 2018/07/18 06:00
+PHST- 2018/06/13 00:00 [received]
+PHST- 2018/07/06 00:00 [revised]
+PHST- 2018/07/12 00:00 [accepted]
+PHST- 2018/07/18 06:00 [entrez]
+PHST- 2018/07/18 06:00 [pubmed]
+PHST- 2018/10/30 06:00 [medline]
+AID - ijms19072051 [pii]
+AID - ijms-19-02051 [pii]
+AID - 10.3390/ijms19072051 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2018 Jul 14;19(7):2051. doi: 10.3390/ijms19072051.
+
+PMID- 29176884
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171211
+LR  - 20181202
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 12
+IP  - 11
+DP  - 2017
+TI  - Alcohol consumption and risk of uterine myoma: A systematic review and meta 
+      analysis.
+PG  - e0188355
+LID - 10.1371/journal.pone.0188355 [doi]
+LID - e0188355
+AB  - BACKGROUND: The published data about alcohol consumption and uterine myoma are 
+      scanty and controversial: some studies found positive association whereas other 
+      studies showed no association. OBJECTIVES: To conduct a systematic review and 
+      meta-analysis to determine whether alcohol is a risk factor for myoma. SEARCH 
+      STRATEGY: A MEDLINE/EMBASE search was carried out, supplemented by manual 
+      searches of bibliographies of the selected studies. SELECTION CRITERIA: Articles 
+      published as full-length papers in English. In the review we included all 
+      identified studies. Otherwise, the inclusion criteria for studies included in the 
+      meta-analysis were: a) case-control or cohort studies, reporting original data; 
+      b) studies reporting original data on the association between alcohol consumption 
+      and myoma; c) diagnosis of myoma was ultrasound or histological confirmed and/or 
+      clinically based. DATA COLLECTION AND ANALYSIS: A total of 6 studies were 
+      identified for the review and 5 studies were included in the meta-analysis. The 
+      primary outcome was the incidence of uterine myoma in ever versus never alcohol 
+      drinkers and when data were available, we also analyzed categories of alcohol 
+      intake. We assessed the outcomes in the overall population and then we performed 
+      a subgroup analysis according to study design. Pooled estimates of the odds 
+      ratios (OR) with 95% confidence interval (CI) were calculated using random 
+      effects models. MAIN RESULTS: The summary OR (95%CI) of myoma forever versus 
+      never alcohol intake was 1.12 (0.94-1.34) with significant heterogeneity. The 
+      summary OR for current versus never drinking was 1.33 (1.01-1.76) with no 
+      heterogeneity. CONCLUSIONS: Ever alcohol consumption is not associated with myoma 
+      risk. Based on the data of two studies, current alcohol drinkers had a slightly 
+      borderline increased risk of diagnosis of myoma. In consideration of the very 
+      limited number of studies and the suggestion of a potential increased risk among 
+      current drinkers, further studies are required.
+FAU - Chiaffarino, Francesca
+AU  - Chiaffarino F
+AUID- ORCID: 0000-0001-6009-8108
+AD  - Dipartimento della Donna, del Neonato e del Bambino, Fondazione IRCCS Cà Granda, 
+      Ospedale Maggiore Policlinico, Milan, Italy.
+FAU - Cipriani, Sonia
+AU  - Cipriani S
+AD  - Dipartimento della Donna, del Neonato e del Bambino, Fondazione IRCCS Cà Granda, 
+      Ospedale Maggiore Policlinico, Milan, Italy.
+FAU - Ricci, Elena
+AU  - Ricci E
+AD  - Dipartimento della Donna, del Neonato e del Bambino, Fondazione IRCCS Cà Granda, 
+      Ospedale Maggiore Policlinico, Milan, Italy.
+FAU - La Vecchia, Carlo
+AU  - La Vecchia C
+AD  - Dipartimento di Scienze Cliniche e di Comunità, Università degli studi di Milano, 
+      Milan, Italy.
+FAU - Chiantera, Vito
+AU  - Chiantera V
+AD  - Department of Gynecology, Charitè Universitätsmedizin, Berlin, Germany.
+FAU - Bulfoni, Alessandro
+AU  - Bulfoni A
+AD  - Unità di Ostetricia e Ginecologia, Humanitas San Pio X Hospital, Milan, Italy.
+FAU - Parazzini, Fabio
+AU  - Parazzini F
+AD  - Dipartimento della Donna, del Neonato e del Bambino, Fondazione IRCCS Cà Granda, 
+      Ospedale Maggiore Policlinico, Milan, Italy.
+AD  - Dipartimento di Scienze Cliniche e di Comunità, Università degli studi di Milano, 
+      Milan, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Review
+PT  - Systematic Review
+DEP - 20171127
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Adult
+MH  - Alcohol Drinking/*adverse effects
+MH  - Female
+MH  - Humans
+MH  - Middle Aged
+MH  - Myoma/*epidemiology/*etiology
+MH  - Odds Ratio
+MH  - Risk Factors
+MH  - Uterine Neoplasms/*epidemiology/*etiology
+MH  - Young Adult
+PMC - PMC5703463
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2017/11/28 06:00
+MHDA- 2017/12/12 06:00
+CRDT- 2017/11/28 06:00
+PHST- 2017/02/09 00:00 [received]
+PHST- 2017/11/06 00:00 [accepted]
+PHST- 2017/11/28 06:00 [entrez]
+PHST- 2017/11/28 06:00 [pubmed]
+PHST- 2017/12/12 06:00 [medline]
+AID - PONE-D-17-02412 [pii]
+AID - 10.1371/journal.pone.0188355 [doi]
+PST - epublish
+SO  - PLoS One. 2017 Nov 27;12(11):e0188355. doi: 10.1371/journal.pone.0188355. 
+      eCollection 2017.
+
+PMID- 35215384
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220301
+LR  - 20220301
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 14
+IP  - 4
+DP  - 2022 Feb 9
+TI  - Dietary Natural Compounds and Vitamins as Potential Cofactors in Uterine Fibroids 
+      Growth and Development.
+LID - 10.3390/nu14040734 [doi]
+LID - 734
+AB  - An analysis of the literature generated within the past 20 year-span concerning 
+      risks of uterine fibroids (UFs) occurrence and dietary factors was carried out. A 
+      link between Vitamin D deficiency and UFs formation is strongly indicated, making 
+      it a potent compound in leiomyoma therapy. Analogs of the 25-hydroxyvitamin D3, 
+      not susceptible to degradation by tissue 24-hydroxylase, appear to be especially 
+      promising and tend to show better therapeutic results. Although research on the 
+      role of Vitamin A in the formation of fibroids is contradictory, Vitamin 
+      A-enriched diet, as well as synthetic retinoid analogues, may be preventative or 
+      limit the growth of fibroids. Unambiguous conclusions cannot be drawn regarding 
+      Vitamin E and C supplementation, except for alpha-tocopherol. Alpha-tocopherol as 
+      a phytoestrogen taking part in the modulation of estrogen receptors (ERs) 
+      involved in UF etiology, should be particularly avoided in therapy. A diet 
+      enriched in fruits and vegetables, as sources of carotenoids, polyphenols, 
+      quercetin, and indole-3-carbinol, constitutes an easily modifiable lifestyle 
+      element with beneficial results in patients with UFs. Other natural substances, 
+      such as curcumin, can reduce the oxidative stress and protect against 
+      inflammation in leiomyoma. Although the exact effect of probiotics on uterine 
+      fibroids has not yet been thoroughly evaluated at this point, the protective role 
+      of dairy products, i.e., yogurt consumption, has been indicated. Trace elements 
+      such as selenium can also contribute to antioxidative and anti-inflammatory 
+      properties of a recommended diet. In contrast, heavy metals, endocrine disrupting 
+      chemicals, cigarette smoking, and a diet low in antioxidants and fiber were, 
+      alongside genetic predispositions, associated with UFs formation.
+FAU - Szydłowska, Iwona
+AU  - Szydłowska I
+AUID- ORCID: 0000-0003-1518-8838
+AD  - Department of Gynecology, Endocrinology and Gynecological Oncology, Pomeranian 
+      Medical University, 71-252 Szczecin, Poland.
+FAU - Nawrocka-Rutkowska, Jolanta
+AU  - Nawrocka-Rutkowska J
+AD  - Department of Gynecology, Endocrinology and Gynecological Oncology, Pomeranian 
+      Medical University, 71-252 Szczecin, Poland.
+FAU - Brodowska, Agnieszka
+AU  - Brodowska A
+AD  - Department of Gynecology, Endocrinology and Gynecological Oncology, Pomeranian 
+      Medical University, 71-252 Szczecin, Poland.
+FAU - Marciniak, Aleksandra
+AU  - Marciniak A
+AD  - Department of Gynecology, Endocrinology and Gynecological Oncology, Pomeranian 
+      Medical University, 71-252 Szczecin, Poland.
+FAU - Starczewski, Andrzej
+AU  - Starczewski A
+AD  - Department of Gynecology, Endocrinology and Gynecological Oncology, Pomeranian 
+      Medical University, 71-252 Szczecin, Poland.
+FAU - Szczuko, Małgorzata
+AU  - Szczuko M
+AUID- ORCID: 0000-0001-9808-0624
+AD  - Department of Human Nutrition and Metabolomics, Pomeranian Medical University, 
+      71-460 Szczecin, Poland.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220209
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Vitamins)
+RN  - 11103-57-4 (Vitamin A)
+RN  - 1406-16-2 (Vitamin D)
+SB  - IM
+MH  - Diet
+MH  - Female
+MH  - Growth and Development
+MH  - Humans
+MH  - *Leiomyoma/epidemiology
+MH  - *Uterine Neoplasms/drug therapy
+MH  - Vitamin A/therapeutic use
+MH  - Vitamin D/therapeutic use
+MH  - Vitamins/therapeutic use
+PMC - PMC8880543
+OTO - NOTNLM
+OT  - curcumin
+OT  - diet
+OT  - green tea
+OT  - selenium
+OT  - trace elements
+OT  - uterine fibroids
+OT  - vitamin A, C, D, E
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/02/27 06:00
+MHDA- 2022/03/03 06:00
+CRDT- 2022/02/26 01:05
+PHST- 2022/01/13 00:00 [received]
+PHST- 2022/02/03 00:00 [revised]
+PHST- 2022/02/07 00:00 [accepted]
+PHST- 2022/02/26 01:05 [entrez]
+PHST- 2022/02/27 06:00 [pubmed]
+PHST- 2022/03/03 06:00 [medline]
+AID - nu14040734 [pii]
+AID - nutrients-14-00734 [pii]
+AID - 10.3390/nu14040734 [doi]
+PST - epublish
+SO  - Nutrients. 2022 Feb 9;14(4):734. doi: 10.3390/nu14040734.
+
+PMID- 37576957
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230816
+LR  - 20230817
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Electronic)
+IS  - 1664-2392 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Genetic liability to multiple factors and uterine leiomyoma risk: a Mendelian 
+      randomization study.
+PG  - 1133260
+LID - 10.3389/fendo.2023.1133260 [doi]
+LID - 1133260
+AB  - BACKGROUND AND OBJECTIVE: Uterine leiomyoma is the most common benign tumor in 
+      females of reproductive age. However, its causes have never been fully 
+      understood. The objective of our study was to analyze the causal association 
+      between various factors and uterine leiomyoma using Mendelian randomization (MR). 
+      METHODS: Genetic variables associated with risk factors were obtained from 
+      genome-wide association studies. Summary-level statistical data for uterine 
+      leiomyoma were obtained from FinnGen and the UK Biobank (UKB) consortium. We used 
+      inverse variance weighted, MR-Egger, and weighted median methods in univariate 
+      analysis. Multivariable MR analysis was used to identify independent risk 
+      factors. A fixed-effect model meta-analysis was used to combine the results of 
+      the FinnGen and UKB data. RESULTS: In the FinnGen data, higher genetically 
+      predicted age at natural menopause, systolic blood pressure (SBP), diastolic 
+      blood pressure (DBP), and fasting insulin were associated with an increased risk 
+      of uterine leiomyoma, while higher age at menarche was associated with a reduced 
+      risk of uterine leiomyoma. Multivariable MR analysis of SBP and DBP showed that 
+      higher DBP might be an independent risk factor of uterine leiomyoma. In the UKB 
+      data, the results for age at natural menopause, SBP, DBP, and age at menarche 
+      were replicated. The result of the meta-analysis suggested that uterine leiomyoma 
+      could also be affected by polycystic ovary syndrome (PCOS), endometriosis, and 
+      2-hour glucose level. CONCLUSION: Our MR study confirmed that earlier menstrual 
+      age, hypertension, obesity, and elevated 2-hour glucose post-challenge were risk 
+      factors for uterine leiomyoma, and the causal relationship between smoking and 
+      uterine leiomyoma was ruled out. In addition, later age of menopause and 
+      endometriosis were found to increase the risk of uterine leiomyoma, while PCOS 
+      was found to decrease the risk.
+CI  - Copyright © 2023 Qu, Chen, Guo, Liu and Wu.
+FAU - Qu, Yangming
+AU  - Qu Y
+AD  - Department of Neonatology, the First Hospital of Jilin University, Changchun, 
+      Jilin, China.
+FAU - Chen, Lanlan
+AU  - Chen L
+AD  - Department of Hepatobiliary and Pancreatic Surgery, the First Hospital of Jilin 
+      University, Changchun, Jilin, China.
+FAU - Guo, Shijie
+AU  - Guo S
+AD  - Department of Neonatology, the First Hospital of Jilin University, Changchun, 
+      Jilin, China.
+FAU - Liu, Ying
+AU  - Liu Y
+AD  - Department of Neonatology, the First Hospital of Jilin University, Changchun, 
+      Jilin, China.
+FAU - Wu, Hui
+AU  - Wu H
+AD  - Department of Neonatology, the First Hospital of Jilin University, Changchun, 
+      Jilin, China.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+DEP - 20230727
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+RN  - IY9XDZ35W2 (Glucose)
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - *Endometriosis
+MH  - Genome-Wide Association Study
+MH  - Mendelian Randomization Analysis
+MH  - *Leiomyoma/epidemiology/genetics
+MH  - *Polycystic Ovary Syndrome
+MH  - Glucose
+PMC - PMC10415162
+OTO - NOTNLM
+OT  - Mendelian randomization
+OT  - influence
+OT  - risk factor
+OT  - study
+OT  - uterine leiomyoma
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/08/14 06:42
+MHDA- 2023/08/16 06:43
+CRDT- 2023/08/14 04:51
+PHST- 2023/01/03 00:00 [received]
+PHST- 2023/06/06 00:00 [accepted]
+PHST- 2023/08/16 06:43 [medline]
+PHST- 2023/08/14 06:42 [pubmed]
+PHST- 2023/08/14 04:51 [entrez]
+AID - 10.3389/fendo.2023.1133260 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2023 Jul 27;14:1133260. doi: 
+      10.3389/fendo.2023.1133260. eCollection 2023.
+
+PMID- 38068842
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20231216
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 15
+IP  - 23
+DP  - 2023 Dec 1
+TI  - The Role of Nutrition in Pathogenesis of Uterine Fibroids.
+LID - 10.3390/nu15234984 [doi]
+LID - 4984
+AB  - Uterine fibroids are benign tumors that arise from the smooth muscle tissue of 
+      the uterus and are the most common tumors in women. Due to their high prevalence, 
+      costs for the health care system and the substantial impact on women's quality of 
+      life, they are a significant public health concern. Previous literature on the 
+      impact of diet on the occurrence, growth and symptoms of fibroids is limited. 
+      Recently, many papers have been written on this topic. A scoping review of PubMed 
+      and Cochrane databases was performed using the following keywords: uterine 
+      fibroids, antioxidants, diet, diet, vegetarian, vegetables, fruits, meat and soy 
+      foods, dairy products, tea, vitamin D, vitamin C, ascorbic acid. Preliminary 
+      research has shown a beneficial effect of vegetable and fruit consumption on the 
+      occurrence of fibroids. A relationship between hypovitaminosis D and an increased 
+      risk of fibroids has also been demonstrated. Studies on epigallocatechin gallate 
+      showed its apoptosis-promoting and antifibrinolytic effect in fibroid cells. 
+      Initial results are promising, but further randomized trials are needed to draw 
+      firm conclusions about the effects of diet and nutrients on uterine fibroids.
+FAU - Krzyżanowski, Jarosław
+AU  - Krzyżanowski J
+AUID- ORCID: 0000-0002-0018-364X
+AD  - 3rd Chair and Department of Gynecology, Medical University of Lublin, 20-094 
+      Lublin, Poland.
+FAU - Paszkowski, Tomasz
+AU  - Paszkowski T
+AD  - 3rd Chair and Department of Gynecology, Medical University of Lublin, 20-094 
+      Lublin, Poland.
+FAU - Woźniak, Sławomir
+AU  - Woźniak S
+AUID- ORCID: 0000-0001-9967-1944
+AD  - 3rd Chair and Department of Gynecology, Medical University of Lublin, 20-094 
+      Lublin, Poland.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231201
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Vitamins)
+RN  - PQ6CK8PD0R (Ascorbic Acid)
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - *Uterine Neoplasms/etiology/pathology
+MH  - Quality of Life
+MH  - *Leiomyoma/epidemiology
+MH  - Vitamins
+MH  - Diet/adverse effects
+MH  - Vegetables
+MH  - Ascorbic Acid
+PMC - PMC10708302
+OTO - NOTNLM
+OT  - diet
+OT  - leiomyoma
+OT  - nutrients
+OT  - vitamins
+COIS- The authors declare that there are no conflict of interest.
+EDAT- 2023/12/09 10:45
+MHDA- 2023/12/17 09:43
+CRDT- 2023/12/09 01:12
+PHST- 2023/11/05 00:00 [received]
+PHST- 2023/11/26 00:00 [revised]
+PHST- 2023/11/29 00:00 [accepted]
+PHST- 2023/12/17 09:43 [medline]
+PHST- 2023/12/09 10:45 [pubmed]
+PHST- 2023/12/09 01:12 [entrez]
+AID - nu15234984 [pii]
+AID - nutrients-15-04984 [pii]
+AID - 10.3390/nu15234984 [doi]
+PST - epublish
+SO  - Nutrients. 2023 Dec 1;15(23):4984. doi: 10.3390/nu15234984.
+
+PMID- 28653894
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170711
+LR  - 20220409
+IS  - 1423-0380 (Electronic)
+IS  - 1010-4283 (Linking)
+VI  - 39
+IP  - 6
+DP  - 2017 Jun
+TI  - Molecular and clinical attributes of uterine leiomyomas.
+PG  - 1010428317710226
+LID - 10.1177/1010428317710226 [doi]
+AB  - Uterine leiomyomas, also called uterine fibroids or myomas, represent one of the 
+      most common benign tumour types in women of a fertile age. Leiomyomas arise due 
+      to transformation of the layer of smooth muscle cells of corpus uteri - the 
+      myometrium. Despite frequent occurrence of this disease, the molecular mechanisms 
+      behind the origin and development of leiomyomas are still relatively unknown. 
+      Most predisposed are obese women and women of African origin. In more than half 
+      of cases, leiomyomas remain asymptomatic. Genetic factors also have an important 
+      impact on the development of these hormone-dependent tumours. However, the 
+      clinical and molecular characteristics of familiar and sporadic leiomyomas can 
+      widely differ. The main reason is the heterogeneity of this disease and the 
+      abundance of factors which can underlie their tumourigenesis. Clinical diagnosis 
+      of uterine leiomyomas without surgical interference can be hindered in the case 
+      of small, mostly submucosal leiomyomas or if it is necessary to avoid potential 
+      malignancy of tumour. Also, medical treatment of uterine leiomyomas cannot be 
+      nowadays considered sufficient with many medical agents still being tested only 
+      within clinical research. The main goal of this article is to summarise known 
+      facts about the aetiology of leiomyomas, risk factors that contribute to their 
+      development, known molecular-genetic aberrations connected with the presence of 
+      leiomyomas as well as the possibilities of their diagnosis and treatment.
+FAU - Dvorská, Dana
+AU  - Dvorská D
+AD  - 1 Division of Molecular Medicine, Biomedical Center Martin, Jessenius Faculty of 
+      Medicine in Martin, Comenius University in Bratislava, Martin, Slovakia.
+AD  - 2 Clinic of Gynecology and Obstetrics, Jessenius Faculty of Medicine in Martin, 
+      Comenius University in Bratislava, Martin, Slovakia.
+FAU - Braný, Dušan
+AU  - Braný D
+AD  - 1 Division of Molecular Medicine, Biomedical Center Martin, Jessenius Faculty of 
+      Medicine in Martin, Comenius University in Bratislava, Martin, Slovakia.
+AD  - 2 Clinic of Gynecology and Obstetrics, Jessenius Faculty of Medicine in Martin, 
+      Comenius University in Bratislava, Martin, Slovakia.
+FAU - Danková, Zuzana
+AU  - Danková Z
+AD  - 3 Division of Oncology, Biomedical Center Martin, Jessenius Faculty of Medicine 
+      in Martin, Comenius University in Bratislava, Martin, Slovakia.
+FAU - Halašová, Erika
+AU  - Halašová E
+AD  - 1 Division of Molecular Medicine, Biomedical Center Martin, Jessenius Faculty of 
+      Medicine in Martin, Comenius University in Bratislava, Martin, Slovakia.
+FAU - Višňovský, Jozef
+AU  - Višňovský J
+AD  - 2 Clinic of Gynecology and Obstetrics, Jessenius Faculty of Medicine in Martin, 
+      Comenius University in Bratislava, Martin, Slovakia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Netherlands
+TA  - Tumour Biol
+JT  - Tumour biology : the journal of the International Society for Oncodevelopmental 
+      Biology and Medicine
+JID - 8409922
+RN  - 0 (Estrogens)
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+SB  - IM
+MH  - Estrogens/genetics/metabolism
+MH  - Female
+MH  - Humans
+MH  - Intercellular Signaling Peptides and Proteins/genetics/metabolism
+MH  - Leiomyoma/*diagnosis/*genetics/pathology/surgery
+MH  - Mesoderm/metabolism/pathology
+MH  - Risk Factors
+MH  - Uterus/metabolism/pathology
+OTO - NOTNLM
+OT  - Leiomyomas
+OT  - fibroids
+OT  - growth factors
+OT  - mesenchymal tumours
+OT  - oestrogen
+OT  - uterus
+EDAT- 2017/06/28 06:00
+MHDA- 2017/07/14 06:00
+CRDT- 2017/06/28 06:00
+PHST- 2017/06/28 06:00 [entrez]
+PHST- 2017/06/28 06:00 [pubmed]
+PHST- 2017/07/14 06:00 [medline]
+AID - 10.1177/1010428317710226 [doi]
+PST - ppublish
+SO  - Tumour Biol. 2017 Jun;39(6):1010428317710226. doi: 10.1177/1010428317710226.
+
+PMID- 26079694
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151123
+LR  - 20221207
+IS  - 1556-5653 (Electronic)
+IS  - 0015-0282 (Print)
+IS  - 0015-0282 (Linking)
+VI  - 104
+IP  - 3
+DP  - 2015 Sep
+TI  - Role of vitamin D in uterine fibroid biology.
+PG  - 698-706
+LID - S0015-0282(15)00382-9 [pii]
+LID - 10.1016/j.fertnstert.2015.05.031 [doi]
+AB  - OBJECTIVE: To provide a detailed summary of current scientific knowledge on 
+      uterine fibroids (leiomyomas) in vitro and in in vivo animal models, as well as 
+      to postulate the potential role of vitamin D3 as an effective, inexpensive, safe, 
+      long-term treatment option for uterine fibroids. DESIGN: PubMed search articles 
+      were used to identify the most relevant studies on uterine fibroids, as well as 
+      effects of vitamin D3 on uterine fibroid cells and fibroid tumor growth in 
+      in vivo animal models. SETTING: University research laboratory. PATIENT(S): Not 
+      applicable. INTERVENTION(S): None. MAIN OUTCOME MEASURE(S): Not applicable. 
+      RESULT(S): Despite numerous publications available on uterine fibroids, 
+      information about the role that vitamin D3 plays in the regulation of uterine 
+      fibroids is limited. Most of the recent vitamin D3-related studies on uterine 
+      fibroids were published from our group. Recent studies have demonstrated that 
+      vitamin D deficiency plays a significant role in the development of uterine 
+      fibroids. Our recent studies have demonstrated that vitamin D3 reduces leiomyoma 
+      cell proliferation in vitro and leiomyoma tumor growth in in vivo animal models. 
+      These results postulate the potential role of vitamin D3 for an effective, safe, 
+      nonsurgical medical treatment option for uterine fibroids. CONCLUSION(S): This 
+      article reviews human and animal studies and uncovers new possibilities for 
+      understanding the vitamin D-based therapeutic option for an effective, safe, 
+      long-term treatment of uterine fibroids. On the basis of these results, a 
+      clinical trial with vitamin D3 or a hypocalcemic analog, paricalcitol, may be 
+      warranted for nonsurgical medical treatment of uterine fibroids.
+CI  - Copyright © 2015 American Society for Reproductive Medicine. Published by 
+      Elsevier Inc. All rights reserved.
+FAU - Brakta, Soumia
+AU  - Brakta S
+AD  - Department of Obstetrics and Gynecology, Georgia Regents University, Medical 
+      College of Georgia, Augusta, Georgia.
+FAU - Diamond, Justin S
+AU  - Diamond JS
+AD  - Department of Obstetrics and Gynecology, Georgia Regents University, Medical 
+      College of Georgia, Augusta, Georgia.
+FAU - Al-Hendy, Ayman
+AU  - Al-Hendy A
+AD  - Department of Obstetrics and Gynecology, Georgia Regents University, Medical 
+      College of Georgia, Augusta, Georgia.
+FAU - Diamond, Michael P
+AU  - Diamond MP
+AD  - Department of Obstetrics and Gynecology, Georgia Regents University, Medical 
+      College of Georgia, Augusta, Georgia.
+FAU - Halder, Sunil K
+AU  - Halder SK
+AD  - Department of Obstetrics and Gynecology, Georgia Regents University, Medical 
+      College of Georgia, Augusta, Georgia. Electronic address: shalder@gru.edu.
+LA  - eng
+GR  - R01 HD046228/HD/NICHD NIH HHS/United States
+GR  - 2G12RR003032-26/RR/NCRR NIH HHS/United States
+GR  - 2R01HD046228-11/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20150613
+PL  - United States
+TA  - Fertil Steril
+JT  - Fertility and sterility
+JID - 0372772
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Ergocalciferols)
+RN  - 1406-16-2 (Vitamin D)
+RN  - 1C6V77QF41 (Cholecalciferol)
+RN  - 6702D36OG5 (paricalcitol)
+SB  - IM
+CIN - Fertil Steril. 2015 Sep;104(3):559-60. PMID: 26187299
+MH  - Black or African American
+MH  - Animals
+MH  - Antineoplastic Agents/therapeutic use
+MH  - Cholecalciferol/therapeutic use
+MH  - Dietary Supplements
+MH  - Ergocalciferols/therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Leiomyoma/drug therapy/ethnology/*metabolism/pathology
+MH  - Risk Factors
+MH  - Signal Transduction
+MH  - Treatment Outcome
+MH  - Uterine Neoplasms/drug therapy/ethnology/*metabolism/pathology
+MH  - Vitamin D/*metabolism
+MH  - Vitamin D Deficiency/drug therapy/ethnology/*metabolism/pathology
+PMC - PMC4561014
+MID - NIHMS695870
+OTO - NOTNLM
+OT  - Uterine leiomyomas
+OT  - VDR
+OT  - fibroids
+OT  - paricalcitol
+OT  - vitamin D3
+EDAT- 2015/06/17 06:00
+MHDA- 2015/12/15 06:00
+CRDT- 2015/06/17 06:00
+PHST- 2015/02/09 00:00 [received]
+PHST- 2015/05/26 00:00 [revised]
+PHST- 2015/05/27 00:00 [accepted]
+PHST- 2015/06/17 06:00 [entrez]
+PHST- 2015/06/17 06:00 [pubmed]
+PHST- 2015/12/15 06:00 [medline]
+AID - S0015-0282(15)00382-9 [pii]
+AID - 10.1016/j.fertnstert.2015.05.031 [doi]
+PST - ppublish
+SO  - Fertil Steril. 2015 Sep;104(3):698-706. doi: 10.1016/j.fertnstert.2015.05.031. 
+      Epub 2015 Jun 13.
+
+PMID- 35365209
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220405
+LR  - 20220525
+IS  - 2046-4053 (Electronic)
+IS  - 2046-4053 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2022 Apr 1
+TI  - The environmental risk factors prior to conception associated with placental 
+      abruption: an umbrella review.
+PG  - 55
+LID - 10.1186/s13643-022-01915-6 [doi]
+LID - 55
+AB  - BACKGROUND: The present umbrella review evaluated risk factors prior to 
+      conception associated with placental abruption based on meta-analyses and 
+      systematic reviews. METHODS: We searched PubMed, Scopus, and Web of Science until 
+      June 25, 2021. All meta-analyses that had focused on assessing the risk factors 
+      associated with placental abruption were included. We calculated summary effect 
+      estimates, 95% CI, heterogeneity I(2), 95% prediction interval, small-study 
+      effects, excess significance biases, and sensitive analysis. The quality of the 
+      meta-analyses was evaluated with A Measurement Tool to Assess Systematic Reviews 
+      2 (AMSTAR 2). RESULTS: There was no risk factor in the present umbrella review 
+      with the high level of evidence (class I or II). Eight risk factors including 
+      maternal asthma (RR 1.29 95% CI 1.14, 1.47), prior cesarean section (RR 1.38, 95% 
+      CI 1.35-1.42), cocaine using (RR 4.55, 95% CI 1.78-6.50), endometriosis (OR 1.40, 
+      95% CI 1.12-1.76), chronic hypertension (OR 3.13, 95% CI 2.04-4.80), advanced 
+      maternal age (OR 1.44, 95% CI 1.35-1.54), maternal smoking (OR 1.80, 95% CI 
+      1.75-1.85) (RR 1.65, 95% CI 1.51-1.80), and use of assisted reproductive 
+      techniques (ART) (OR 1.87, 95% CI 1.70-2.06) were graded as suggestive evidence 
+      (class III). The other four risk factors including pre-pregnancy underweight (OR 
+      1.38, 95% CI 1.12-1.70), preeclampsia (OR 1.73, 95% CI 1.47-2.04), uterine 
+      leiomyoma (OR 2.63, 95% CI 1.38-3.88), and marijuana use (OR 1.78, 95% CI 
+      1.32-2.40) were graded as risk factors with weak evidence (class IV). CONCLUSION: 
+      Maternal asthma, prior cesarean section, cocaine use, endometriosis, chronic 
+      hypertension, advanced maternal age, maternal smoking, and use of ART, 
+      pre-pregnancy underweight, preeclampsia, uterine leiomyoma, and marijuana use 
+      were risk factors associated with placental abruption. Although factors 
+      associated with placental abruption have been investigated, the current 
+      meta-analytic associations cannot disentangle the complex etiology of placental 
+      abruption mainly due to their low quality of evidence.
+CI  - © 2022. The Author(s).
+FAU - Jenabi, Ensiyeh
+AU  - Jenabi E
+AD  - Mother and Child Care Research Center, Hamadan University of Medical Sciences, 
+      Hamadan, Iran.
+FAU - Salimi, Zohreh
+AU  - Salimi Z
+AUID- ORCID: 0000-0001-5125-9512
+AD  - Autism Spectrum Disorders Research Center, Hamadan University of Medical 
+      Sciences, Hamadan, Iran. salimizohreh@gmail.com.
+FAU - Ayubi, Erfan
+AU  - Ayubi E
+AD  - Social Determinants of Health Research Center, Hamadan University of Medical 
+      Sciences, Hamadan, Iran.
+FAU - Bashirian, Saeid
+AU  - Bashirian S
+AD  - Autism Spectrum Disorders Research Center, Hamadan University of Medical 
+      Sciences, Hamadan, Iran.
+FAU - Salehi, Amir Mohammad
+AU  - Salehi AM
+AD  - School of Medicine, Hamadan University of Medical Sciences, Hamadan, Iran.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20220401
+PL  - England
+TA  - Syst Rev
+JT  - Systematic reviews
+JID - 101580575
+SB  - IM
+MH  - *Abruptio Placentae/epidemiology/etiology
+MH  - Cesarean Section/adverse effects
+MH  - Female
+MH  - Humans
+MH  - Placenta
+MH  - *Pre-Eclampsia/epidemiology/etiology
+MH  - Pregnancy
+MH  - Risk Factors
+PMC - PMC8973534
+OTO - NOTNLM
+OT  - Placental abruption
+OT  - Risk factor
+OT  - Umbrella review
+COIS- The authors declare that they have no competing interests.
+EDAT- 2022/04/03 06:00
+MHDA- 2022/04/06 06:00
+CRDT- 2022/04/02 05:22
+PHST- 2021/12/02 00:00 [received]
+PHST- 2022/03/03 00:00 [accepted]
+PHST- 2022/04/02 05:22 [entrez]
+PHST- 2022/04/03 06:00 [pubmed]
+PHST- 2022/04/06 06:00 [medline]
+AID - 10.1186/s13643-022-01915-6 [pii]
+AID - 1915 [pii]
+AID - 10.1186/s13643-022-01915-6 [doi]
+PST - epublish
+SO  - Syst Rev. 2022 Apr 1;11(1):55. doi: 10.1186/s13643-022-01915-6.
+
+PMID- 34637783
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211223
+LR  - 20211223
+IS  - 1096-0945 (Electronic)
+IS  - 0014-4800 (Linking)
+VI  - 123
+DP  - 2021 Dec
+TI  - The role of adipokines in leiomyomas development.
+PG  - 104693
+LID - S0014-4800(21)00093-9 [pii]
+LID - 10.1016/j.yexmp.2021.104693 [doi]
+AB  - INTRODUCTION: Many women of premenopausal age suffer from uterine leiomyomas, 
+      which are benign tumors of the uterus. Despite the high prevalence of uterine 
+      leiomyomas underlying pathogenesis mechanisms are not fully elucidated. Early 
+      data showed a positive correlation between increased levels of adipose tissue and 
+      leiomyomas prevalence. Adipose tissue cells-adipocytes can play a potential role 
+      in leiomyomas formation by producing and secreting adipokines. AIM: The aim of 
+      this study is to summarize the current knowledge on the potential relation 
+      between adipokines and leiomyomas basing on current data analyze, and justify 
+      future research directions. METHODOLOGY: This review is based on pertinent 
+      articles searched using PubMed, encompassing all available literature. The key 
+      search words were as follows: adipokines, leiomyoma, TNFα, leptin, adiponectin, 
+      visfatin, resistin, omentin, lipocalin, apelin, adipsin, chemerin. Time was not 
+      an exclusion criterium due to few available studies on this subject. SUMMARY: The 
+      results of the studies are inconclusive, but the vast majority indicates a 
+      significant connection between the adipokines and the leiomyomas. According to 
+      the majority of studies, TNFα contributes to the development of leiomyomas by 
+      inhibiting apoptosis, increasing migration of leiomyomas, and increasing fibrosis 
+      of leiomyomas. Most of the studies on the effects of leptin also indicate the 
+      relation between leptin and leiomyomas development. In the case of adiponectin 
+      released from mast cells' granularity, it is possible that adiponectin increases 
+      angiogenesis in leiomyomas. Under physiological conditions, adiponectin has the 
+      potential to inhibit the development of leiomyomas. The authors suggested that 
+      adiponectin affects leiomyomas via an insulin-dependent pathway or via an 
+      estrogen-dependent pathway. Most probably leptin contributes to the formation of 
+      myomas and adiponectin prevents this. More research is needed to understand 
+      better the influence of these molecules on the pathogenesis of leiomyomas.
+CI  - Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Strzałkowska, Bogumiła
+AU  - Strzałkowska B
+AD  - Department of Medical and Molecular Biology, Faculty of Medical Sciences in 
+      Zabrze, Medical University of Silesia in Katowice, Poland. Electronic address: 
+      bogumilastrzal@gmail.com.
+FAU - Dawidowicz, Miriam
+AU  - Dawidowicz M
+AD  - Department of Medical and Molecular Biology, Faculty of Medical Sciences in 
+      Zabrze, Medical University of Silesia in Katowice, Poland.
+FAU - Ochman, Błażej
+AU  - Ochman B
+AD  - Department of Medical and Molecular Biology, Faculty of Medical Sciences in 
+      Zabrze, Medical University of Silesia in Katowice, Poland.
+FAU - Świętochowska, Elżbieta
+AU  - Świętochowska E
+AD  - Department of Medical and Molecular Biology, Faculty of Medical Sciences in 
+      Zabrze, Medical University of Silesia in Katowice, Poland.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20211009
+PL  - Netherlands
+TA  - Exp Mol Pathol
+JT  - Experimental and molecular pathology
+JID - 0370711
+RN  - 0 (Adipokines)
+SB  - IM
+MH  - Adipocytes/metabolism/pathology
+MH  - Adipokines/*genetics
+MH  - Disease Progression
+MH  - Female
+MH  - Gene Expression Regulation, Neoplastic/genetics
+MH  - Humans
+MH  - Leiomyoma/*genetics/pathology
+MH  - Neoplasms/*genetics/pathology
+MH  - Uterine Neoplasms/*genetics/pathology
+OTO - NOTNLM
+OT  - Adipokines
+OT  - Adiponectin
+OT  - Leiomyoma
+OT  - Leptin
+OT  - Obesity
+OT  - TNFα
+EDAT- 2021/10/13 06:00
+MHDA- 2021/12/24 06:00
+CRDT- 2021/10/12 20:14
+PHST- 2021/05/25 00:00 [received]
+PHST- 2021/09/06 00:00 [revised]
+PHST- 2021/09/28 00:00 [accepted]
+PHST- 2021/10/13 06:00 [pubmed]
+PHST- 2021/12/24 06:00 [medline]
+PHST- 2021/10/12 20:14 [entrez]
+AID - S0014-4800(21)00093-9 [pii]
+AID - 10.1016/j.yexmp.2021.104693 [doi]
+PST - ppublish
+SO  - Exp Mol Pathol. 2021 Dec;123:104693. doi: 10.1016/j.yexmp.2021.104693. Epub 2021 
+      Oct 9.
+
+PMID- 29194370
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180711
+LR  - 20181202
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 18
+IP  - 12
+DP  - 2017 Dec 1
+TI  - Alternative Oral Agents in Prophylaxis and Therapy of Uterine Fibroids-An 
+      Up-to-Date Review.
+LID - 10.3390/ijms18122586 [doi]
+LID - 2586
+AB  - Uterine fibroids (UFs) are the most common tumors of the female genital tract. 
+      The effect of UFs on the quality of life and the overall cost of treatment are 
+      significant issues worldwide. Tumor size and location are the two specific 
+      factors which influence the occurrence of symptoms, the need for, and method of, 
+      treatment (some tumors require surgery while some can be treated with selected 
+      drugs). Primary prevention and treatment of early UF disease are worthy goals 
+      that might have a great impact on health care systems. Several treatments and 
+      prophylactic methods can be used in this endeavor. This publication presents 
+      current data about lesser-known substances which may have a beneficial effect on 
+      the treatment or prophylaxis of UFs and can be administered orally, serving as an 
+      alternative to (or complement of) surgery or selective progesterone receptor 
+      modulators (SPRMs). Early prevention and treatment of UFs in women from high-risk 
+      groups should be our priority. Innovative forms of UF management are under 
+      intensive investigation and may be promising options in the near future. Many of 
+      them evaluated vitamin D, paricalcitol, epigallocatechin gallate (EGCG), 
+      elagolix, aromatase inhibitors (AIs), and cabergoline and deemed them to be safe 
+      and effective. The next step in such projects should be properly constructed 
+      randomized control trials (RCTs), carried out by successive phases.
+FAU - Ciebiera, Michał
+AU  - Ciebiera M
+AD  - Department of Obstetrics and Gynecology, The Centre of Postgraduate Medical 
+      Education, 00-416 Warsaw, Poland. michal.ciebiera@gmail.com.
+FAU - Łukaszuk, Krzysztof
+AU  - Łukaszuk K
+AD  - Department of Obstetrics and Gynecological Nursing, Faculty of Health Sciences, 
+      Medical University of Gdansk, 80-210 Gdansk, Poland. luka@gumed.edu.pl.
+AD  - INVICTA Fertility and Reproductive Center, 80-172 Gdansk, Poland. 
+      luka@gumed.edu.pl.
+FAU - Męczekalski, Błażej
+AU  - Męczekalski B
+AD  - Department of Gynecological Endocrinology, Poznan University of Medical Sciences, 
+      60-513 Poznan, Poland. blazejmeczekalski@yahoo.com.
+FAU - Ciebiera, Magdalena
+AU  - Ciebiera M
+AD  - Students' Scientific Association at the I Department of Obstetrics and 
+      Gynecology, Medical University of Warsaw, 02-015 Warsaw, Poland. 
+      mciebiera93@gmail.com.
+FAU - Wojtyła, Cezary
+AU  - Wojtyła C
+AD  - Department of Obstetrics and Gynecology, The Centre of Postgraduate Medical 
+      Education, 00-416 Warsaw, Poland. czwo@op.pl.
+FAU - Słabuszewska-Jóźwiak, Aneta
+AU  - Słabuszewska-Jóźwiak A
+AD  - Department of Obstetrics and Gynecology, The Centre of Postgraduate Medical 
+      Education, 00-416 Warsaw, Poland. as.jozwiak@op.pl.
+FAU - Jakiel, Grzegorz
+AU  - Jakiel G
+AD  - Department of Obstetrics and Gynecology, The Centre of Postgraduate Medical 
+      Education, 00-416 Warsaw, Poland. grzegorz.jakiel1@o2.pl.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20171201
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Aromatase Inhibitors)
+RN  - 0 (Ergocalciferols)
+RN  - 0 (Ergolines)
+RN  - 0 (Hydrocarbons, Fluorinated)
+RN  - 0 (Pyrimidines)
+RN  - 1406-16-2 (Vitamin D)
+RN  - 5B2546MB5Z (elagolix)
+RN  - 6702D36OG5 (paricalcitol)
+RN  - 8R1V1STN48 (Catechin)
+RN  - BQM438CTEL (epigallocatechin gallate)
+RN  - LL60K9J05T (Cabergoline)
+SB  - IM
+MH  - Administration, Oral
+MH  - Antineoplastic Agents/*administration & dosage/therapeutic use
+MH  - Aromatase Inhibitors/administration & dosage/therapeutic use
+MH  - Cabergoline
+MH  - Catechin/administration & dosage/analogs & derivatives/therapeutic use
+MH  - Ergocalciferols/administration & dosage/therapeutic use
+MH  - Ergolines/administration & dosage/therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Hydrocarbons, Fluorinated/administration & dosage/therapeutic use
+MH  - Leiomyoma/*drug therapy
+MH  - Pyrimidines/administration & dosage/therapeutic use
+MH  - Quality of Life
+MH  - Uterine Neoplasms/*drug therapy
+MH  - Vitamin D/administration & dosage/therapeutic use
+PMC - PMC5751189
+OTO - NOTNLM
+OT  - aromatase inhibitors
+OT  - cabergoline
+OT  - elagolix
+OT  - epigallocatechin gallate
+OT  - leiomyoma
+OT  - paricalcitol
+OT  - pharmacology
+OT  - uterine fibroid
+OT  - vitamin D
+COIS- Michał Ciebiera, Aneta Słabuszewska-Jóźwiak and Grzegorz Jakiel have received 
+      personal fees from Gedeon Richter not related to this work. The Gedeon Richter 
+      had no role in the design of the study; in the collection, analyses, or 
+      interpretation of data; in the writing of the manuscript, and in the decision to 
+      publish the results.
+EDAT- 2017/12/02 06:00
+MHDA- 2018/07/12 06:00
+CRDT- 2017/12/02 06:00
+PHST- 2017/10/17 00:00 [received]
+PHST- 2017/11/28 00:00 [revised]
+PHST- 2017/11/28 00:00 [accepted]
+PHST- 2017/12/02 06:00 [entrez]
+PHST- 2017/12/02 06:00 [pubmed]
+PHST- 2018/07/12 06:00 [medline]
+AID - ijms18122586 [pii]
+AID - ijms-18-02586 [pii]
+AID - 10.3390/ijms18122586 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2017 Dec 1;18(12):2586. doi: 10.3390/ijms18122586.
+
+PMID- 26261478
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160524
+LR  - 20231031
+IS  - 1936-2625 (Electronic)
+IS  - 1936-2625 (Linking)
+VI  - 8
+IP  - 6
+DP  - 2015
+TI  - Association between HSD17B1 rs605059 polymorphisms and the risk of uterine 
+      diseases: a systemic review and meta-analysis.
+PG  - 6012-8
+AB  - The aim of this study was to evaluate the HSD17B1 gene polymorphisms in the risks 
+      of endometrial cancer, endometriosis and uterine leiomyoma by meta-analysis. A 
+      comprehensive electronic search was conducted in PubMed, Medline (Ovid), Embase, 
+      Weipu, Wanfang and CNKI. The pooled ORs were performed using the Revman 5.2 
+      softerware. 8 case-control studies were included: 3 were about endometrial 
+      cancer, 4 were about endometriosis and 1 was about uterine leiomyoma. The result 
+      showed no significant association between HSD17B1 rs605059 gene polymorphisms and 
+      risks of endometrial cancer (AA vs. AG+GG: OR = 1.11, 95% CI = 0.94-1.32; AA+AG 
+      vs. GG: OR = 1.79, 95% CI = 0.42-7.52; AG vs. AA+ GG: OR = 0.87, 95% CI = 
+      0.76-1.00; AA vs. GG: OR = 1.43, 95% CI = 0.62-3.30; A vs. G: OR = 1.00, 95% CI = 
+      0.91-1.11) or endometriosis (AA vs. AG+GG: OR = 0.99, 95% CI = 0.75-1.32; AA+AG 
+      vs. GG: OR = 1.73, 95% CI = 0.92-3.25; AG vs. AA+ GG: OR = 1.24, 95% CI = 
+      1.00-1.53; AA vs. GG: OR = 1.54, 95% CI = 0.79-2.97; A vs. G: OR = 1.23, 95% CI = 
+      0.90-1.68). No association was found in a subgroup analysis based on Asian 
+      ethnicity for endometriosis. This meta-analysis suggested that HSD17B1 rs605059 
+      polymorphisms were not associated with the risks of endometrial cancer and 
+      endometriosis. Further studies are needed to validate the conclusion and clarify 
+      the relationship between HSD17B1 rs605059 polymorphisms and the risk of uterine 
+      leiomyoma.
+FAU - Mu, Xiyan
+AU  - Mu X
+AD  - Department of Gynecology and Obstetrics, West China Second Hospital, Sichuan 
+      University Chengdu 610041, Sichuan, P. R. China ; State Key Laboratory of 
+      Biotherapy and Cancer Center, West China Hospital, Sichuan University, and 
+      Collaborative Innovation Center for Biotherapy Chengdu 610041, Sichuan, P. R. 
+      China.
+FAU - Du, Xue
+AU  - Du X
+AD  - Department of Gynecology and Obstetrics, West China Second Hospital, Sichuan 
+      University Chengdu 610041, Sichuan, P. R. China.
+FAU - Yao, Kui
+AU  - Yao K
+AD  - Department of Gynecology and Obstetrics, West China Second Hospital, Sichuan 
+      University Chengdu 610041, Sichuan, P. R. China.
+FAU - Zhao, Jitong
+AU  - Zhao J
+AD  - Department of Gynecology and Obstetrics, West China Second Hospital, Sichuan 
+      University Chengdu 610041, Sichuan, P. R. China.
+FAU - Bian, Ce
+AU  - Bian C
+AD  - Department of Gynecology and Obstetrics, West China Second Hospital, Sichuan 
+      University Chengdu 610041, Sichuan, P. R. China.
+FAU - Wang, Qiao
+AU  - Wang Q
+AD  - Department of Gynecology and Obstetrics, West China Second Hospital, Sichuan 
+      University Chengdu 610041, Sichuan, P. R. China.
+FAU - Ma, Hongwei
+AU  - Ma H
+AD  - Department of Gynecology and Obstetrics, West China Second Hospital, Sichuan 
+      University Chengdu 610041, Sichuan, P. R. China.
+FAU - Yi, Tao
+AU  - Yi T
+AD  - Department of Gynecology and Obstetrics, West China Second Hospital, Sichuan 
+      University Chengdu 610041, Sichuan, P. R. China.
+FAU - Wu, Yang
+AU  - Wu Y
+AD  - State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, 
+      Sichuan University, and Collaborative Innovation Center for Biotherapy Chengdu 
+      610041, Sichuan, P. R. China.
+FAU - Zhao, Xia
+AU  - Zhao X
+AD  - Department of Gynecology and Obstetrics, West China Second Hospital, Sichuan 
+      University Chengdu 610041, Sichuan, P. R. China.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PT  - Systematic Review
+DEP - 20150601
+PL  - United States
+TA  - Int J Clin Exp Pathol
+JT  - International journal of clinical and experimental pathology
+JID - 101480565
+RN  - EC 1.1.1.62 (Estradiol Dehydrogenases)
+RN  - EC 1.1.1.62 (HSD17B1 protein, human)
+SB  - IM
+MH  - Case-Control Studies
+MH  - Endometrial Neoplasms/diagnosis/enzymology/*genetics
+MH  - Endometriosis/diagnosis/enzymology/*genetics
+MH  - Estradiol Dehydrogenases/*genetics
+MH  - Female
+MH  - Gene Frequency
+MH  - Genetic Association Studies
+MH  - Genetic Predisposition to Disease
+MH  - Heterozygote
+MH  - Homozygote
+MH  - Humans
+MH  - Leiomyoma/diagnosis/enzymology/*genetics
+MH  - Odds Ratio
+MH  - *Polymorphism, Genetic
+MH  - Risk Factors
+MH  - Uterine Neoplasms/diagnosis/enzymology/*genetics
+PMC - PMC4525812
+OTO - NOTNLM
+OT  - Endometrial cancer
+OT  - HSD17B1
+OT  - endometriosis
+OT  - leiomyoma
+OT  - meta-analysis
+OT  - polymorphism
+EDAT- 2015/08/12 06:00
+MHDA- 2016/05/25 06:00
+CRDT- 2015/08/12 06:00
+PHST- 2015/04/19 00:00 [received]
+PHST- 2015/05/29 00:00 [accepted]
+PHST- 2015/08/12 06:00 [entrez]
+PHST- 2015/08/12 06:00 [pubmed]
+PHST- 2016/05/25 06:00 [medline]
+PST - epublish
+SO  - Int J Clin Exp Pathol. 2015 Jun 1;8(6):6012-8. eCollection 2015.
+
+PMID- 37305407
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230613
+LR  - 20230615
+IS  - 2235-2988 (Electronic)
+IS  - 2235-2988 (Linking)
+VI  - 13
+DP  - 2023
+TI  - The role of microbiota in the pathophysiology of uterine fibroids - a systematic 
+      review.
+PG  - 1177366
+LID - 10.3389/fcimb.2023.1177366 [doi]
+LID - 1177366
+AB  - For a long time, the uterus had been considered a sterile organ, meaning that 
+      under physiological conditions the uterus would not be colonized by bacteria. 
+      Based on available data, it may be concluded that the gut and uterine microbiome 
+      are related, and that the role of this microbiome is greater than expected. 
+      Despite being the most common pelvic neoplasms in women of reproductive age, 
+      uterine fibroids (UFs) are still poorly understood tumors whose etiology has not 
+      been fully determined. This systematic review presents the relationship between 
+      intestinal and uterine dysbiosis and uterine fibroids. A systematic review of 
+      three medical databases was carried out: the MEDLINE/PubMed, Scopus and Cochrane. 
+      In this study, 195 titles and abstracts were reviewed, including only original 
+      articles and clinical trials of uterine microbiome criteria. Finally, 16 studies 
+      were included to the analysis. In recent years, researchers dealing with 
+      reproduction in a broad sense have focused on the microbiome in various locations 
+      to study its role in the pathogenesis and, consequently, the prevention and 
+      treatment of diseases of the genital organ. Conventional microbial detection 
+      methods are not suitable for identifying bacteria, which are difficult to 
+      culture. Next-generation sequencing (NGS) provides an easier and faster and more 
+      informative analysis of bacterial populations. It seems that gut microbiota 
+      dysbiosis has the potential to be a risk factor for uterine fibroids or affect 
+      the disease process. Some changes were shown in many types of bacteria, such as 
+      Firmicutes, Proteobacteria, Actinobacteria and Verrucomicrobia detected in fecal 
+      samples in patients with uterine fibroids. In view of the few results on the link 
+      between the microbiome and uterine fibroids, further intensive studies in humans 
+      and animal models are necessary, including the possible use of different 
+      microbiome modulations in the prevention or treatment of uterine fibroids.
+CI  - Copyright © 2023 Korczynska, Zeber-Lubecka, Zgliczynska, Zarychta, Zareba, 
+      Wojtyla, Dabrowska and Ciebiera.
+FAU - Korczynska, Lidia
+AU  - Korczynska L
+AD  - Second Department of Obstetrics and Gynecology, Centre of Postgraduate Medical 
+      Education, Warsaw, Poland.
+FAU - Zeber-Lubecka, Natalia
+AU  - Zeber-Lubecka N
+AD  - Department of Gastroenterology, Hepatology and Clinical Oncology, Centre of 
+      Postgraduate Medical Education, Warsaw, Poland.
+AD  - Department of Genetics, Maria Sklodowska-Curie National Research Institute of 
+      Oncology, Warsaw, Poland.
+FAU - Zgliczynska, Magdalena
+AU  - Zgliczynska M
+AD  - Department of Obstetrics, Perinatology and Neonatology, Centre of Postgraduate 
+      Medical Education, Warsaw, Poland.
+FAU - Zarychta, Elzbieta
+AU  - Zarychta E
+AD  - Second Department of Obstetrics and Gynecology, Centre of Postgraduate Medical 
+      Education, Warsaw, Poland.
+FAU - Zareba, Kornelia
+AU  - Zareba K
+AD  - Department of Obstetrics and Gynecology, College of Medicine and Health Sciences, 
+      United Arab Emirates University, Al Ain, United Arab Emirates.
+FAU - Wojtyla, Cezary
+AU  - Wojtyla C
+AD  - International Prevention Research Institute - Collaborating Centre, Calisia 
+      University, Kalisz, Poland.
+FAU - Dabrowska, Michalina
+AU  - Dabrowska M
+AD  - Department of Genetics, Maria Sklodowska-Curie National Research Institute of 
+      Oncology, Warsaw, Poland.
+FAU - Ciebiera, Michal
+AU  - Ciebiera M
+AD  - Second Department of Obstetrics and Gynecology, Centre of Postgraduate Medical 
+      Education, Warsaw, Poland.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PT  - Systematic Review
+DEP - 20230526
+PL  - Switzerland
+TA  - Front Cell Infect Microbiol
+JT  - Frontiers in cellular and infection microbiology
+JID - 101585359
+SB  - IM
+MH  - Animals
+MH  - Humans
+MH  - Female
+MH  - Dysbiosis
+MH  - *Microbiota
+MH  - *Leiomyoma
+MH  - *Gastrointestinal Microbiome
+MH  - *Actinobacteria
+PMC - PMC10250666
+OTO - NOTNLM
+OT  - 16S rRNA
+OT  - NGS
+OT  - bacteria
+OT  - leiomyoma
+OT  - microbiome
+OT  - microbiota
+OT  - pathophysiology
+OT  - uterine fibroid
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/06/12 06:42
+MHDA- 2023/06/13 06:42
+CRDT- 2023/06/12 04:23
+PHST- 2023/03/01 00:00 [received]
+PHST- 2023/05/16 00:00 [accepted]
+PHST- 2023/06/13 06:42 [medline]
+PHST- 2023/06/12 06:42 [pubmed]
+PHST- 2023/06/12 04:23 [entrez]
+AID - 10.3389/fcimb.2023.1177366 [doi]
+PST - epublish
+SO  - Front Cell Infect Microbiol. 2023 May 26;13:1177366. doi: 
+      10.3389/fcimb.2023.1177366. eCollection 2023.
+
+PMID- 35922099
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220805
+LR  - 20220821
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 12
+IP  - 8
+DP  - 2022 Aug 3
+TI  - Epidemiology of uterine fibroid in black African women: a systematic scoping 
+      review.
+PG  - e052053
+LID - 10.1136/bmjopen-2021-052053 [doi]
+LID - e052053
+AB  - OBJECTIVE: Studies, mainly from high-income countries, suggest that there are 
+      ethnic and racial variations in prevalence of uterine fibroids (UF). However, 
+      there have been few studies of the epidemiology of UF in sub-Saharan Africa 
+      (SSA). We reviewed published articles on the epidemiology of UF in SSA. DESIGN: 
+      This was a scoping review of literature. SETTINGS: We searched three databases 
+      (PubMed, African Wide Information (EBSCO) and African Journals OnLine (AJOL)). 
+      The search for eligible articles was conducted between December 2019 and January 
+      2021. PRIMARY AND SECONDARY OUTCOME MEASURES: To describe the reported 
+      prevalence/incidence of, and risk factors for UF in SSA. RESULTS: Of the 1052 
+      articles retrieved, 9 met the inclusion criteria for review. The articles were 
+      from Nigeria (4/9), Ghana (2/9), Cameroon (1/9), Kenya (1/9) and South Africa 
+      (1/9). Two studies from pathology departments and three studies from radiology 
+      departments reported prevalence of UF. We did not find any study on the incidence 
+      or genomics of UF in SSA. Of the three studies that reported on the risk factors 
+      of UF, only one case-control study that was conducted using retrospective data of 
+      attendees at a gynaecological clinic conducted multivariable analysis. 
+      CONCLUSION: There is lack of robust epidemiological studies of the prevalence, 
+      incidence and risk factors of UF in SSA. There is urgent need to study 
+      epidemiological and genomics risk factors of UF in SSA because UF is the most 
+      common gynaecological neoplasm in this population where it is associated with 
+      significant morbidity and occasional, usually perioperative, mortality.
+CI  - © Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ.
+FAU - Morhason-Bello, Imran O
+AU  - Morhason-Bello IO
+AUID- ORCID: 0000-0002-7448-4824
+AD  - Department of Obstetrics and Gynaecology, Faculty of Clinical Sciences, 
+      University of Ibadan College of Medicine, Ibadan, Nigeria.
+AD  - Institute for Advanced Medical Research and Training (IAMRAT), University of 
+      Ibadan College of Medicine, Ibadan, Nigeria.
+FAU - Adebamowo, Clement A
+AU  - Adebamowo CA
+AUID- ORCID: 0000-0002-6571-2880
+AD  - Center for Bioethics and Research, Ibadan, Nigeria cadebamowo@som.umaryland.edu.
+AD  - Department of Epidemiology and Public Health; and Greenebaum Comprehensive Cancer 
+      Center, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+LA  - eng
+GR  - P30 CA134274/CA/NCI NIH HHS/United States
+GR  - U01 HG009784/HG/NHGRI NIH HHS/United States
+GR  - U54 HG006947/HG/NHGRI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20220803
+PL  - England
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+SB  - IM
+MH  - Case-Control Studies
+MH  - Female
+MH  - Ghana
+MH  - Humans
+MH  - Incidence
+MH  - *Leiomyoma/epidemiology
+MH  - Retrospective Studies
+PMC - PMC9353014
+OTO - NOTNLM
+OT  - EPIDEMIOLOGY
+OT  - GYNAECOLOGY
+OT  - PUBLIC HEALTH
+COIS- Competing interests: None declared.
+EDAT- 2022/08/04 06:00
+MHDA- 2022/08/06 06:00
+CRDT- 2022/08/03 21:03
+PHST- 2022/08/03 21:03 [entrez]
+PHST- 2022/08/04 06:00 [pubmed]
+PHST- 2022/08/06 06:00 [medline]
+AID - bmjopen-2021-052053 [pii]
+AID - 10.1136/bmjopen-2021-052053 [doi]
+PST - epublish
+SO  - BMJ Open. 2022 Aug 3;12(8):e052053. doi: 10.1136/bmjopen-2021-052053.
+
+PMID- 37418220
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231204
+LR  - 20231205
+IS  - 1933-7205 (Electronic)
+IS  - 1933-7191 (Print)
+IS  - 1933-7191 (Linking)
+VI  - 30
+IP  - 12
+DP  - 2023 Dec
+TI  - The Gut Microbiota: a Novel Player in the Pathogenesis of Uterine Fibroids.
+PG  - 3443-3455
+LID - 10.1007/s43032-023-01289-7 [doi]
+AB  - Uterine fibroid is a common gynecological disorder that affects women of 
+      reproductive age and has emerged as a major public health concern. The symptoms 
+      have a negative influence on both their physical health and quality of life. The 
+      cost of treatment has a significant impact on the disease's burden. Even though 
+      its origin is uncertain, estrogen is thought to be a key player in fibroid 
+      pathophysiology. Many theories, including those based on genetic and 
+      environmental factors, explain what causes hyper-estrogenic condition in fibroid 
+      patients. One such possibility that is currently being explored is the hypothesis 
+      that an altered gut microbiome can contribute to the development of diseases 
+      characterized by estrogen dominance. Gut dysbiosis is often a "hot area" in the 
+      health sciences. According to a recent study, uterine fibroid patients have 
+      altered gut microbiome. A variety of risk factors influence both fibroid 
+      development and gut homeostasis. Diet, lifestyle, physical activity, and 
+      environmental contaminants have an impact on estrogen and the gut flora. A better 
+      understanding of uterine fibroids' pathophysiology is required to develop 
+      effective preventative and treatment options. A few ways by which the gut 
+      microbiota contributes to UF include estrogen, impaired immune function, 
+      inflammation, and altered gut metabolites. Therefore, in the future, while 
+      treating fibroid patients, various strategies to deal with changes in the gut 
+      flora may be advantageous. For developing suggestions for clinical diagnosis and 
+      therapy, we reviewed the literature on the relationship between uterine fibroids 
+      and the gut microbiota.
+CI  - © 2023. The Author(s).
+FAU - K, Vineetha K
+AU  - K VK
+AUID- ORCID: 0000-0002-6635-6339
+AD  - Department of Obstetrics and Gynecology, Melaka Manipal Medical College, Manipal 
+      Academy of Higher Education, Manipal, Karnataka, India.
+FAU - Bhat, Rajeshwari G
+AU  - Bhat RG
+AUID- ORCID: 0000-0002-6980-8134
+AD  - Department of Obstetrics and Gynecology, Melaka Manipal Medical College, Manipal 
+      Academy of Higher Education, Manipal, Karnataka, India.
+FAU - Rao, Bhamini Krishna
+AU  - Rao BK
+AUID- ORCID: 0000-0002-2708-0245
+AD  - Department of Physiotherapy, Manipal College of Health Professions, Manipal 
+      Academy of Higher Education, Manipal, Karnataka, India.
+FAU - R, Archana P
+AU  - R AP
+AD  - Department of Basic Medical Sciences, Manipal Academy of Higher Education, 
+      Manipal, Karnataka, India. archana.h@manipal.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230707
+PL  - United States
+TA  - Reprod Sci
+JT  - Reproductive sciences (Thousand Oaks, Calif.)
+JID - 101291249
+RN  - 0 (Estrogens)
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - *Gastrointestinal Microbiome
+MH  - *Uterine Neoplasms/drug therapy
+MH  - Quality of Life
+MH  - *Leiomyoma/drug therapy
+MH  - Estrogens/therapeutic use
+PMC - PMC10691976
+OTO - NOTNLM
+OT  - Estrogen
+OT  - Gut microbiota
+OT  - Lifestyle
+OT  - Lipopolysaccharides
+OT  - Short chain fatty acids
+OT  - Uterine fibroid
+COIS- The authors declare no competing interests.
+EDAT- 2023/07/07 13:04
+MHDA- 2023/12/04 12:42
+CRDT- 2023/07/07 11:19
+PHST- 2023/03/07 00:00 [received]
+PHST- 2023/06/25 00:00 [accepted]
+PHST- 2023/12/04 12:42 [medline]
+PHST- 2023/07/07 13:04 [pubmed]
+PHST- 2023/07/07 11:19 [entrez]
+AID - 10.1007/s43032-023-01289-7 [pii]
+AID - 1289 [pii]
+AID - 10.1007/s43032-023-01289-7 [doi]
+PST - ppublish
+SO  - Reprod Sci. 2023 Dec;30(12):3443-3455. doi: 10.1007/s43032-023-01289-7. Epub 2023 
+      Jul 7.
+
+PMID- 33108619
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220105
+LR  - 20231107
+IS  - 1933-7205 (Electronic)
+IS  - 1933-7191 (Print)
+IS  - 1933-7191 (Linking)
+VI  - 28
+IP  - 8
+DP  - 2021 Aug
+TI  - The Significance of Measuring Vitamin D Serum Levels in Women with Uterine 
+      Fibroids.
+PG  - 2098-2109
+LID - 10.1007/s43032-020-00363-8 [doi]
+AB  - Uterine fibroids (UFs) are benign tumors originating from smooth muscle cells and 
+      are considered a common pathology that affects numerous women which is a notable 
+      socio-economic problem. Several UF risk factors have been identified including 
+      black race, obesity, and vitamin D deficiency. Vitamin D is steroid compound with 
+      pleiotropic effects on the human body. Vitamin D deficiency is a major public 
+      health concern worldwide. Several studies have shown that the majority of UF 
+      patients experienced hypovitaminosis D. In addition, sufficient vitamin D serum 
+      levels are associated with the reduced risk of UFs. In this review, we present 
+      available data highlighting the importance of measuring vitamin D serum levels in 
+      women with UFs and women at a high risk for UF development. We proposed a 
+      preliminary clinical instruction of 25-hydroxyvitamin D measurements and vitamin 
+      D supplementation for clinicians who are involved in the treatment of patients 
+      with UFs. Achieving sufficient serum levels of vitamin D might be of interest in 
+      patients with UFs. Screening, supplementation, treatment guidelines, and public 
+      health strategies for vitamin D deficiency in women with UFs as well as women at 
+      a high risk of UF development might be of potential importance as well.
+CI  - © 2020. The Author(s).
+FAU - Ciebiera, Michał
+AU  - Ciebiera M
+AUID- ORCID: 0000-0001-5780-5983
+AD  - Second Department of Obstetrics and Gynecology, Center of Postgraduate Medical 
+      Education, ul. Cegłowska 80, 01-809, Warsaw, Poland. michal.ciebiera@gmail.com.
+AD  - Department of Surgery, University of Illinois at Chicago, Chicago, IL, USA. 
+      michal.ciebiera@gmail.com.
+FAU - Ali, Mohamed
+AU  - Ali M
+AD  - Department of Surgery, University of Illinois at Chicago, Chicago, IL, USA.
+AD  - Clinical Pharmacy Department, Faculty of Pharmacy, Ain Shams University, Cairo, 
+      Egypt.
+FAU - Prince, Lillian
+AU  - Prince L
+AD  - Biological Sciences Division: Public Health Sciences, University of Chicago, 
+      Chicago, IL, USA.
+FAU - Zgliczyński, Stanisław
+AU  - Zgliczyński S
+AD  - Department of Internal Diseases and Endocrinology, Central Teaching Clinical 
+      Hospital, Medical University of Warsaw, Warsaw, Poland.
+FAU - Jakiel, Grzegorz
+AU  - Jakiel G
+AD  - First Department of Obstetrics and Gynecology, Center of Postgraduate Medical 
+      Education, Warsaw, Poland.
+FAU - Al-Hendy, Ayman
+AU  - Al-Hendy A
+AD  - Department of Obstetrics and Gynecology, University of Chicago, Chicago, IL, USA.
+LA  - eng
+GR  - R01 ES028615/ES/NIEHS NIH HHS/United States
+GR  - R01 HD094378/HD/NICHD NIH HHS/United States
+GR  - R01 HD100367/HD/NICHD NIH HHS/United States
+GR  - R01 HD094380/HD/NICHD NIH HHS/United States
+GR  - U54 MD007602/MD/NIMHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20201027
+PL  - United States
+TA  - Reprod Sci
+JT  - Reproductive sciences (Thousand Oaks, Calif.)
+JID - 101291249
+RN  - 1406-16-2 (Vitamin D)
+RN  - A288AR3C9H (25-hydroxyvitamin D)
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - Leiomyoma/*blood/etiology
+MH  - Risk Factors
+MH  - Uterine Neoplasms/*blood/etiology
+MH  - Vitamin D/*analogs & derivatives/blood/therapeutic use
+MH  - Vitamin D Deficiency/*blood/complications/drug therapy
+PMC - PMC8262605
+MID - NIHMS1714000
+OTO - NOTNLM
+OT  - 25-hydroxyvitamin D
+OT  - Leiomyoma
+OT  - Risk factor
+OT  - Serum level
+OT  - Uterine fibroid
+OT  - Vitamin D
+COIS- Ayman Al-Hendy is a consultant for Abbvie, Allergan, Bayer, Myovant Sciences, and 
+      Repros. No conflicts were declared for the remaining authors.
+EDAT- 2020/10/28 06:00
+MHDA- 2022/01/06 06:00
+CRDT- 2020/10/27 17:39
+PHST- 2020/06/01 00:00 [received]
+PHST- 2020/10/19 00:00 [accepted]
+PHST- 2020/10/28 06:00 [pubmed]
+PHST- 2022/01/06 06:00 [medline]
+PHST- 2020/10/27 17:39 [entrez]
+AID - 10.1007/s43032-020-00363-8 [pii]
+AID - 363 [pii]
+AID - 10.1007/s43032-020-00363-8 [doi]
+PST - ppublish
+SO  - Reprod Sci. 2021 Aug;28(8):2098-2109. doi: 10.1007/s43032-020-00363-8. Epub 2020 
+      Oct 27.
+
+PMID- 38102975
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231218
+LR  - 20231218
+IS  - 1364-6893 (Electronic)
+IS  - 0144-3615 (Linking)
+VI  - 44
+IP  - 1
+DP  - 2024 Dec
+TI  - Modifiable prognostic factors in uterine fibroid development: a systematic review 
+      of literature.
+PG  - 2288225
+LID - 10.1080/01443615.2023.2288225 [doi]
+AB  - BACKGROUND: Many risk factors in uterine fibroid development have been 
+      identified, but women and their physicians are less aware of the influence of 
+      lifestyle on uterine fibroid development. The objective of this systematic review 
+      is to investigate and summarize modifiable prognostic factors associated with 
+      uterine fibroid development. METHODS: Pubmed and Embase were searched for 
+      relevant articles according to PRISMA guidelines. References from included 
+      articles were screened and when relevant also included. Human in vivo studies on 
+      modifiable factors in fibroid development were included. Studies on 
+      non-modifiable factors and treatment, in vitro studies and animal studies were 
+      excluded. 607 articles were screened and 33 articles were included. Two 
+      independent investigators collected data from the report. RESULTS: The strongest 
+      risk factor for fibroid development was a high BMI, while the strongest 
+      protective factors were a high fruit and vegetable intake and high vitamin D 
+      intake. CONCLUSION: More high-quality studies are necessary to better understand 
+      the impact of the abovementioned factors as well as the role they play in the 
+      growth of already existing fibroids.
+FAU - Keizer, Alieke L
+AU  - Keizer AL
+AD  - Department of Obstetrics and Gynaecology, Vrije Universiteit Amsterdam, Amsterdam 
+      UMC, Amsterdam Reproduction and Development Research Institute, Amsterdam, The 
+      Netherlands.
+FAU - Semmler, Annika
+AU  - Semmler A
+AD  - Department of Obstetrics and Gynaecology, Vrije Universiteit Amsterdam, Amsterdam 
+      UMC, Amsterdam Reproduction and Development Research Institute, Amsterdam, The 
+      Netherlands.
+FAU - Kok, Helen S
+AU  - Kok HS
+AD  - Department of Obstetrics and Gynaecology, Alrijne Ziekenhuis location Leiden, 
+      Leiden, The Netherlands.
+FAU - van Kesteren, Paul J M
+AU  - van Kesteren PJM
+AD  - OLVG Location East, Department of Obstetrics and Gynaecology, Amsterdam, The 
+      Netherlands.
+FAU - Huirne, Judith A F
+AU  - Huirne JAF
+AD  - Department of Obstetrics and Gynaecology, Vrije Universiteit Amsterdam, Amsterdam 
+      UMC, Amsterdam Reproduction and Development Research Institute, Amsterdam, The 
+      Netherlands.
+AD  - Department of Obstetrics and Gynaecology, University of Amsterdam, Amsterdam UMC, 
+      Amsterdam Reproduction and Development Research Institute, Amsterdam, The 
+      Netherlands.
+FAU - Hehenkamp, Wouter J K
+AU  - Hehenkamp WJK
+AD  - Department of Obstetrics and Gynaecology, Vrije Universiteit Amsterdam, Amsterdam 
+      UMC, Amsterdam Reproduction and Development Research Institute, Amsterdam, The 
+      Netherlands.
+AD  - Department of Obstetrics and Gynaecology, University of Amsterdam, Amsterdam UMC, 
+      Amsterdam Reproduction and Development Research Institute, Amsterdam, The 
+      Netherlands.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20231216
+PL  - England
+TA  - J Obstet Gynaecol
+JT  - Journal of obstetrics and gynaecology : the journal of the Institute of 
+      Obstetrics and Gynaecology
+JID - 8309140
+SB  - IM
+MH  - Animals
+MH  - Female
+MH  - Humans
+MH  - *Uterine Neoplasms/complications
+MH  - Prognosis
+MH  - *Leiomyoma/complications
+MH  - Risk Factors
+OAB - Uterine fibroid development is multifactorial. Various non-modifiable and 
+      modifiable factors have been linked to uterine fibroid development. Modifiable 
+      factors are controllable by patients themselves. We performed a systematic review 
+      to investigate these modifiable factors. We screened 607 articles from 2 
+      databases (PubMed and Embase) of which 33 were included in the review. We only 
+      included clinical studies on humans. A high body mass index (BMI) is found to be 
+      a modifiable risk factor for uterine fibroid development. Protective of uterine 
+      fibroid development are high fruit and vegetable intake and high vitamin D intake 
+      or sun exposure. More research is needed to investigate the applicability of 
+      these findings in clinical practice and to investigate the influence on the 
+      growth of already existing uterine fibroids.
+OABL- eng
+OTO - NOTNLM
+OT  - Uterine fibroid
+OT  - modifiable
+OT  - prognostic factor
+OT  - risk factor
+EDAT- 2023/12/16 12:42
+MHDA- 2023/12/18 06:41
+CRDT- 2023/12/16 08:12
+PHST- 2023/12/18 06:41 [medline]
+PHST- 2023/12/16 12:42 [pubmed]
+PHST- 2023/12/16 08:12 [entrez]
+AID - 10.1080/01443615.2023.2288225 [doi]
+PST - ppublish
+SO  - J Obstet Gynaecol. 2024 Dec;44(1):2288225. doi: 10.1080/01443615.2023.2288225. 
+      Epub 2023 Dec 16.
+
+PMID- 26744813
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161101
+LR  - 20221207
+IS  - 1532-5520 (Electronic)
+IS  - 0009-9201 (Print)
+IS  - 0009-9201 (Linking)
+VI  - 59
+IP  - 1
+DP  - 2016 Mar
+TI  - Epidemiology of Uterine Fibroids: From Menarche to Menopause.
+PG  - 2-24
+LID - 10.1097/GRF.0000000000000164 [doi]
+AB  - Uterine leiomyomata (UL) have a substantial impact on women's health, but 
+      relatively few studies have identified opportunities for primary prevention of 
+      these neoplasms. Most established risk factors are not modifiable, including 
+      premenopausal age, African ancestry, age at menarche, and childbearing history. 
+      The main challenge in studying UL is that a large proportion of tumors are 
+      asymptomatic. Herein, we review the epidemiology of UL from published studies to 
+      date. We highlight the advantages of ultrasound screening studies and the ways in 
+      which their innovative methods have helped clarify the etiology of disease. We 
+      conclude with a discussion of promising new hypotheses.
+FAU - Wise, Lauren A
+AU  - Wise LA
+AD  - *Department of Epidemiology, Boston University School of Public Health †Slone 
+      Epidemiology Center at Boston University, Boston, Massachusetts ‡Department of 
+      Obstetrics and Gynecology, Mayo Clinic, Rochester, Minnesota.
+FAU - Laughlin-Tommaso, Shannon K
+AU  - Laughlin-Tommaso SK
+LA  - eng
+GR  - R01 HD057966/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Clin Obstet Gynecol
+JT  - Clinical obstetrics and gynecology
+JID - 0070014
+RN  - 3G6A5W338E (Caffeine)
+SB  - IM
+MH  - Age Distribution
+MH  - Age Factors
+MH  - Alcohol Drinking/epidemiology
+MH  - Black People/statistics & numerical data
+MH  - Caffeine
+MH  - Diabetes Mellitus/epidemiology
+MH  - Diet/statistics & numerical data
+MH  - Female
+MH  - Humans
+MH  - Incidence
+MH  - Insulin Resistance
+MH  - Leiomyoma/diagnostic imaging/*epidemiology/ethnology
+MH  - Mass Screening
+MH  - *Menarche
+MH  - *Menopause
+MH  - Motor Activity
+MH  - Overweight/epidemiology
+MH  - Parity
+MH  - Polycystic Ovary Syndrome/epidemiology
+MH  - Prevalence
+MH  - Protective Factors
+MH  - *Reproductive History
+MH  - Risk Factors
+MH  - Smoking/epidemiology
+MH  - Stress, Psychological/epidemiology
+MH  - Ultrasonography
+MH  - Uterine Neoplasms/diagnostic imaging/*epidemiology/ethnology
+MH  - White People/statistics & numerical data
+PMC - PMC4733579
+MID - NIHMS737623
+EDAT- 2016/01/09 06:00
+MHDA- 2016/11/02 06:00
+PMCR- 2017/03/01
+CRDT- 2016/01/09 06:00
+PHST- 2017/03/01 00:00 [pmc-release]
+PHST- 2016/01/09 06:00 [entrez]
+PHST- 2016/01/09 06:00 [pubmed]
+PHST- 2016/11/02 06:00 [medline]
+AID - 10.1097/GRF.0000000000000164 [doi]
+PST - ppublish
+SO  - Clin Obstet Gynecol. 2016 Mar;59(1):2-24. doi: 10.1097/GRF.0000000000000164.
+
+PMID- 32795307
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210531
+LR  - 20210531
+IS  - 1477-7827 (Electronic)
+IS  - 1477-7827 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2020 Aug 14
+TI  - Correlation of low serum vitamin-D with uterine leiomyoma: a systematic review 
+      and meta-analysis.
+PG  - 85
+LID - 10.1186/s12958-020-00644-6 [doi]
+LID - 85
+AB  - BACKGROUND: There is a growing body of evidence on low serum vitamin-D levels and 
+      the risk of uterine leiomyomas (UL). Therefore, this systematic review and 
+      meta-analysis was conducted to investigate the association between serum vitamin 
+      D levels and UL occurrence. METHODS: Searches were systematically conducted of 
+      the electronic databases PubMed, Scopus, EMBASE, Web of Science (ISI), Cochrane 
+      library, Ovid, and Google Scholar to identify relevant studies from inception 
+      until February 6, 2020. Heterogeneity across the included studies was examined 
+      using Cochran's Q and I-square (I(2)). Data was pooled using random effects 
+      modeling and expressed as standardized mean differences (SMDs). RESULTS: Nine 
+      eligible studies with a total of 1730 participants (835 patients with UL and 895 
+      controls) were included in the current meta-analysis. Pooled results with random 
+      effects modeling indicated that serum vitamin D levels were significantly lower 
+      in patients with UL than in the control group (n = 9, SMD = - 0.67; 95% CI, 
+      - 0.98, - 0.35, p < 0.001; I(2) = 89.3%, p < 0.001). Based on the findings of 
+      subgroup analyses, it was found that the SMD values across the included studies 
+      from Asia (n = 4, SMD = - 1.20; 95% CI, - 1.45, - 0.96, p < 0.001; I(2) = 30.6%, 
+      p = 0.229) were lower than those from Europe (n = 3, SMD = - 0.34; 95% CI, 
+      - 0.49, - 0.18, p < 0.001; I(2) = 0.0%, p = 0.602) and Africa (n = 2, 
+      SMD = - 0.13; 95% CI, - 0.29, 0.04, p = 0.128; I(2) = 0.0%, p = 0.417), although 
+      the difference was not significant in Africa. Publication year was also found to 
+      be a potential contributor's variable in the pooled SMD using the meta-regression 
+      method (t = - 3.00, p = 0.02). CONCLUSIONS: To the best of our knowledge, the 
+      current meta-analysis showed for the first time that serum vitamin D levels were 
+      significantly lower in women with UL in selected populations.
+FAU - Mohammadi, Ramin
+AU  - Mohammadi R
+AD  - Student Research Committee, Shiraz University of Medical Sciences, Shiraz, Iran.
+FAU - Tabrizi, Reza
+AU  - Tabrizi R
+AD  - Health Policy Research Center, Institute of Health, Shiraz University of Medical 
+      Sciences, Shiraz, Iran.
+FAU - Hessami, Kamran
+AU  - Hessami K
+AD  - Student Research Committee, Shiraz University of Medical Sciences, Shiraz, Iran.
+AD  - Maternal-Fetal Medicine Research Center, Shiraz University of Medical Sciences, 
+      Shiraz, Iran.
+FAU - Ashari, Hoda
+AU  - Ashari H
+AD  - Health Policy Research Center, Institute of Health, Shiraz University of Medical 
+      Sciences, Shiraz, Iran.
+FAU - Nowrouzi-Sohrabi, Peyman
+AU  - Nowrouzi-Sohrabi P
+AD  - Student Research Committee, Shiraz University of Medical Sciences, Shiraz, Iran.
+AD  - Department of Biochemistry, School of Medicine, Shiraz University of Medical 
+      Sciences, Shiraz, Iran.
+FAU - Hosseini-Bensenjan, Mahnaz
+AU  - Hosseini-Bensenjan M
+AD  - Student Research Committee, Shiraz University of Medical Sciences, Shiraz, Iran.
+FAU - Asadi, Nasrin
+AU  - Asadi N
+AD  - Maternal-Fetal Medicine Research Center, Shiraz University of Medical Sciences, 
+      Shiraz, Iran. nasadi2012@yahoo.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+DEP - 20200814
+PL  - England
+TA  - Reprod Biol Endocrinol
+JT  - Reproductive biology and endocrinology : RB&E
+JID - 101153627
+RN  - 1406-16-2 (Vitamin D)
+SB  - IM
+MH  - Adult
+MH  - Comorbidity
+MH  - Female
+MH  - Humans
+MH  - Incidence
+MH  - Leiomyoma/blood/complications/*epidemiology
+MH  - Middle Aged
+MH  - Risk Factors
+MH  - Uterine Neoplasms/blood/complications/*epidemiology
+MH  - Vitamin D/*blood
+MH  - Vitamin D Deficiency/blood/complications/*epidemiology
+PMC - PMC7427296
+OTO - NOTNLM
+OT  - Meta-analysis
+OT  - Systematic review
+OT  - Uterine fibroid
+OT  - Uterine leiomyoma
+OT  - Vitamin D
+COIS- The authors declare that they have no competing interests.
+EDAT- 2020/08/17 06:00
+MHDA- 2021/06/01 06:00
+CRDT- 2020/08/16 06:00
+PHST- 2020/04/30 00:00 [received]
+PHST- 2020/08/10 00:00 [accepted]
+PHST- 2020/08/16 06:00 [entrez]
+PHST- 2020/08/17 06:00 [pubmed]
+PHST- 2021/06/01 06:00 [medline]
+AID - 10.1186/s12958-020-00644-6 [pii]
+AID - 644 [pii]
+AID - 10.1186/s12958-020-00644-6 [doi]
+PST - epublish
+SO  - Reprod Biol Endocrinol. 2020 Aug 14;18(1):85. doi: 10.1186/s12958-020-00644-6.
+
+PMID- 24094421
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140129
+LR  - 20131129
+IS  - 1556-5653 (Electronic)
+IS  - 0015-0282 (Linking)
+VI  - 100
+IP  - 6
+DP  - 2013 Dec
+TI  - Effects of mifepristone on uterine leiomyoma in premenopausal women: a 
+      meta-analysis.
+PG  - 1722-6.e1-10
+LID - S0015-0282(13)03005-7 [pii]
+LID - 10.1016/j.fertnstert.2013.08.039 [doi]
+AB  - OBJECTIVE: To conduct a meta-analysis of the studies assessing the effects of 
+      mifepristone on the uterus, uterine leiomyoma, and leiomyoma-related symptoms in 
+      premenopausal women. DESIGN: Meta-analysis. SETTING: Centers for reproductive 
+      care. PATIENT(S): Premenopausal women who suffered from leiomyoma. 
+      INTERVENTION(S): We identified all of the studies published before December 2012 
+      that compared the status of patients with leiomyoma before and after treatment 
+      with mifepristone. MAIN OUTCOME MEASURE(S): Leiomyoma-related symptoms, uterine 
+      or leiomyoma volume, changes in endometrial thickness. RESULT(S): A meta-analytic 
+      technique was used to study 11 randomized controlled trials involving 780 women 
+      with symptomatic uterine leiomyomas. The subjects received 2.5-25 mg/d of 
+      mifepristone for 3-6 months. Mifepristone could effectively reduce uterine and 
+      leiomyoma volume and alleviate leiomyoma symptoms, including hypermenorrhea, the 
+      mean menstrual blood loss, pelvic pain, pelvic pressure, anemia, and 
+      dysmenorrhea. There was no significant difference in the rate of atypical 
+      endometrial hyperplasia between the mifepristone treatment group and the placebo 
+      group. CONCLUSION(S): Mifepristone significantly reduced uterine and leiomyoma 
+      volume and alleviated leiomyoma-related symptoms. We recommend 2.5 mg of 
+      mifepristone administered daily for 3 or 6 months as the optimum clinical 
+      treatment for leiomyoma. There is insufficient evidence that mifepristone 
+      treatment led to atypical endometrial hyperplasia.
+CI  - Copyright © 2013 American Society for Reproductive Medicine. Published by 
+      Elsevier Inc. All rights reserved.
+FAU - Shen, Qi
+AU  - Shen Q
+AD  - Department of Obstetrics and Gynecology, the Second Affiliated Hospital of 
+      Wenzhou Medical University, Wenzhou, People's Republic of China.
+FAU - Hua, Ying
+AU  - Hua Y
+FAU - Jiang, Wenxiao
+AU  - Jiang W
+FAU - Zhang, Wenwen
+AU  - Zhang W
+FAU - Chen, Miaomiao
+AU  - Chen M
+FAU - Zhu, Xueqiong
+AU  - Zhu X
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131002
+PL  - United States
+TA  - Fertil Steril
+JT  - Fertility and sterility
+JID - 0372772
+RN  - 0 (Antineoplastic Agents)
+RN  - 320T6RNW1F (Mifepristone)
+SB  - IM
+MH  - Antineoplastic Agents/therapeutic use
+MH  - Drug-Related Side Effects and Adverse Reactions/epidemiology
+MH  - Evidence-Based Medicine
+MH  - Female
+MH  - Humans
+MH  - Incidence
+MH  - Leiomyoma/*drug therapy/epidemiology/pathology
+MH  - Mifepristone/*therapeutic use
+MH  - *Premenopause
+MH  - Risk Factors
+MH  - Treatment Outcome
+MH  - Uterine Neoplasms/*drug therapy/epidemiology/pathology
+OTO - NOTNLM
+OT  - Mifepristone
+OT  - leiomyoma
+OT  - meta-analysis
+EDAT- 2013/10/08 06:00
+MHDA- 2014/01/30 06:00
+CRDT- 2013/10/08 06:00
+PHST- 2013/04/30 00:00 [received]
+PHST- 2013/08/22 00:00 [revised]
+PHST- 2013/08/22 00:00 [accepted]
+PHST- 2013/10/08 06:00 [entrez]
+PHST- 2013/10/08 06:00 [pubmed]
+PHST- 2014/01/30 06:00 [medline]
+AID - S0015-0282(13)03005-7 [pii]
+AID - 10.1016/j.fertnstert.2013.08.039 [doi]
+PST - ppublish
+SO  - Fertil Steril. 2013 Dec;100(6):1722-6.e1-10. doi: 
+      10.1016/j.fertnstert.2013.08.039. Epub 2013 Oct 2.
