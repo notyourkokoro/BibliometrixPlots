@@ -26,7 +26,7 @@ class Sources:
         df = pd.read_excel(file_name, sheet_name='MostRelSources')
 
         # сортировка данных по невозрастанию
-        df.sort_values(by='Articles', ascending=True, inplace=False)
+        df.sort_values(by='Articles', ascending=False, inplace=True)
 
         # отсечение записей
         df = df.head(size).iloc[::-1]
@@ -94,12 +94,14 @@ class Sources:
             'en': {
                 'title': 'Sources\' Production over Time',
                 'xlabel': 'Year',
-                'ylabel': 'Cumulate occurrences'
+                'ylabel': 'Cumulate occurrences',
+                'legend': 'Sources',
             },
             'ru': {
                 'title': 'Основные источники по закону Брэдфорда',
                 'xlabel': 'Год',
-                'ylabel': 'Количество случаев'
+                'ylabel': 'Количество случаев',
+                'legend': 'Источники',
             },
         }
 
@@ -122,7 +124,7 @@ class Sources:
         plt.xlabel(localization[language]['xlabel'])
         plt.ylabel(localization[language]['ylabel'])
 
-        plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.15))
+        plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.15), title=localization[language]['legend'])
         plt.grid(True)
 
         plt.savefig(f'{self.save_path}/sources_production_over_time_{language}.png')

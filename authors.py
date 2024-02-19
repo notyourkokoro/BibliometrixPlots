@@ -25,7 +25,7 @@ class Authors:
         df = pd.read_excel(file_name, sheet_name='MostRelAuthors')
 
         # сортировка данных по невозрастанию
-        df.sort_values(by='Articles', ascending=True, inplace=False)
+        df.sort_values(by='Articles', ascending=False, inplace=True)
 
         # отсечение записей
         df = df.head(size).iloc[::-1]
