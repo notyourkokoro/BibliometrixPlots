@@ -2,6 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import geopandas as gpd
 
+from matplotlib import colormaps
+
 
 class Countries:
     def __init__(self, save_path: str = 'plots'):
@@ -82,7 +84,7 @@ class Countries:
         }
 
         # настройка цветовой карты
-        cmap = plt.cm.get_cmap(color_map)
+        cmap = colormaps[color_map]
 
         # загрузка данных
         df = pd.read_excel(file_name, sheet_name='CountrySciProd')
