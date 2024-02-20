@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import geopandas as gpd
 
 from matplotlib import colormaps
+from matplotlib.colors import LinearSegmentedColormap
 
 
 class Countries:
@@ -48,7 +49,7 @@ class Countries:
         y_pos = range(len(data_sorted))
 
         # Рисуем столбцы SCP
-        ax.barh(y_pos, data_sorted['SCP'], color='blue', label='SCP')
+        ax.barh(y_pos, data_sorted['SCP'], color='lightblue', label='SCP')
 
         # Рисуем столбцы MCP поверх столбцов SCP
         ax.barh(y_pos, data_sorted['MCP'], color='red', left=data_sorted['SCP'], label='MCP')
@@ -69,7 +70,7 @@ class Countries:
         plt.show()
 
     def countries_scientific_production(self, file_name: str, weight: int = 30, height: int = 10, language: str = 'en',
-                                        color_map: str = 'bone'):
+                                        color_map: str = 'custom'):
         localization = {
             'en': {
                 'title': 'Countries\' Scientific Production',
@@ -84,7 +85,10 @@ class Countries:
         }
 
         # настройка цветовой карты
-        cmap = colormaps[color_map]
+        if color_map == 'custom':
+            cmap = LinearSegmentedColormap.from_list('custom_colormap', [(0, 'gray'), (1, 'lightblue')])
+        else:
+            cmap = colormaps[color_map]
 
         # загрузка данных
         df = pd.read_excel(file_name, sheet_name='CountrySciProd')

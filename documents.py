@@ -162,12 +162,12 @@ class Words:
 
         # Отрисовка отрезков
         for _, row in df.iterrows():
-            plt.plot([row['year_q1'], row['year_q3']], [row['item'], row['item']], color='blue')
+            plt.plot([row['year_q1'], row['year_q3']], [row['item'], row['item']], color='lightblue')
 
         # Добавление шариков
         legend_handles = {}
         for _, row in df.iterrows():
-            scatter = plt.scatter(row['year_med'], row['item'], s=row['freq'] * 10, color='blue', alpha=0.5)
+            scatter = plt.scatter(row['year_med'], row['item'], s=row['freq'] * 10, color='lightblue', alpha=0.5)
             if row['freq'] not in legend_handles:
                 legend_handles[row['freq']] = scatter
 
