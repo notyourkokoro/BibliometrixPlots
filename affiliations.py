@@ -15,7 +15,7 @@ class Affiliations:
                 'ylabel': 'Affiliations'
             },
             'ru': {
-                'title': 'Наиболее релевантные филиалы',
+                'title': 'Наиболее релевантные аффилиации',
                 'xlabel': 'Статьи',
                 'ylabel': 'Принадлежность'
             },
